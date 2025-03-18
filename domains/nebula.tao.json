@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "nebula.tao",
+    "domain_name": "nebula",
+    "expire_date": "2026-03-05 12:04:19",
+    "created_at": "2025-03-05 12:04:19",
+    "wallet_address": "5CXjwgho6BA6fYKRAuMRh22MqQb3eDQMto3ZYgsozabzyYxK",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "nebula.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x80a043b5a0323a9fdda451d41c8475144c6c3459856dab0a14ac7483663bb789",
+    "previous_cid": null,
+    "wallet_address": "5CXjwgho6BA6fYKRAuMRh22MqQb3eDQMto3ZYgsozabzyYxK",
+    "order_id": "8f4601fc-c06a-4658-86df-2c98bd8fee7f",
+    "event_date": "2025-03-05 12:04:19",
+    "expire_date": "2026-03-05 12:04:19"
+  }
+}
