@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "blackrock.tao",
+    "domain_name": "blackrock",
+    "expire_date": "2026-03-03 22:49:11",
+    "created_at": "2025-03-03 22:49:11",
+    "wallet_address": "5DhZnZBYgYMjCawNkBjoT2EUrSVChvbT6eeg7SvdmPZqfESD",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "blackrock.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x1696b753695e5d417f443f38d07356f16ed3051cfb7938b7890feb0b56b852a3",
+    "previous_cid": "QmaujgBPmJcMMeLuDarqTbG21tFmAaMmDD6yxh9wsEr7Zq",
+    "wallet_address": "5DhZnZBYgYMjCawNkBjoT2EUrSVChvbT6eeg7SvdmPZqfESD",
+    "order_id": "f8758ea3-0175-48af-ba33-a3712f130846",
+    "event_date": "2025-03-03 22:49:11",
+    "expire_date": "2026-03-03 22:49:11"
+  }
+}
