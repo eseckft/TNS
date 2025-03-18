@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "mercenary.tao",
+    "domain_name": "mercenary",
+    "expire_date": "2026-03-03 18:19:24",
+    "created_at": "2025-03-03 18:19:24",
+    "wallet_address": "5HjbHn8HsVEep5E7hi7tx83nVmfiijN1YsPfgnAh13WxtyWD",
+    "discount": true,
+    "discount_in_tao": 0.15,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "mercenary.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x1d5dd14bc9f2097a56d0937342b9078750dc8c9a55e241e2aef075cc2e21b109",
+    "previous_cid": null,
+    "wallet_address": "5HjbHn8HsVEep5E7hi7tx83nVmfiijN1YsPfgnAh13WxtyWD",
+    "order_id": "d8522875-b020-495e-b70b-5f72a9673cf2",
+    "event_date": "2025-03-03 18:19:24",
+    "expire_date": "2026-03-03 18:19:24"
+  }
+}
