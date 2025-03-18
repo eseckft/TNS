@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "crypto.tao",
+    "domain_name": "crypto",
+    "expire_date": "2026-03-03 16:22:18",
+    "created_at": "2025-03-03 16:22:18",
+    "wallet_address": "5EtZERSkFVzDUnnCWL49FLPbc6ZsrA6bXt4QKmRAeX689JTk",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "crypto.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x91ea5c486b9686c69a36116264545e748902114f3d66483a0ea495d8ffadd30e",
+    "previous_cid": null,
+    "wallet_address": "5EtZERSkFVzDUnnCWL49FLPbc6ZsrA6bXt4QKmRAeX689JTk",
+    "order_id": "dd70fd53-6908-41ba-8e13-c993bded7c61",
+    "event_date": "2025-03-03 16:22:18",
+    "expire_date": "2026-03-03 16:22:18"
+  }
+}
