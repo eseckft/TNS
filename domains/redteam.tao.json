@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "redteam.tao",
+    "domain_name": "redteam",
+    "expire_date": "2026-03-03 16:48:37",
+    "created_at": "2025-03-03 16:48:37",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "redteam.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x748f77b47eabef46aa80da7c816e64eab2f97896c15778da256d2bb816063543",
+    "previous_cid": "QmXKyJEx4KHacB1yrSNMPf45GgyBGVts3xtFjaGyyzWVvG",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "order_id": "c60ece3b-60a1-46a7-9545-55ba5189dfc1",
+    "event_date": "2025-03-03 16:48:37",
+    "expire_date": "2026-03-03 16:48:37"
+  }
+}
