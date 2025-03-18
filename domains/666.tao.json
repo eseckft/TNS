@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "666.tao",
+    "domain_name": "666",
+    "expire_date": "2026-03-03 17:10:38",
+    "created_at": "2025-03-03 17:10:38",
+    "wallet_address": "5CtqFTahn2CTTkTBnScbr8KkYbvCaYcZTDbaecoJp8wVw17z",
+    "discount": true,
+    "discount_in_tao": 0.2,
+    "price_estimated_in_tao": 0.8,
+    "cost_in_tao": 1
+  },
+  "latest_event": {
+    "domain": "666.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xbd1a5857d6863753375fac82b57dc8bba5259b8128faee1473952883bed69513",
+    "previous_cid": "QmeiXxbFRTeft5f9z9am5UMfaXrCZecmc1M5wvkoDZoFib",
+    "wallet_address": "5CtqFTahn2CTTkTBnScbr8KkYbvCaYcZTDbaecoJp8wVw17z",
+    "order_id": "523c02ab-1f20-4687-919c-12fd3d2a041c",
+    "event_date": "2025-03-03 17:10:38",
+    "expire_date": "2026-03-03 17:10:38"
+  }
+}
