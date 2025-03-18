@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "pepe.tao",
+    "domain_name": "pepe",
+    "expire_date": "2026-03-10 18:22:37",
+    "created_at": "2025-03-10 18:22:37",
+    "wallet_address": "5FU5PqDSWUuA97sKK3Nbahsj89ejCEcVMuejgDQjgdeUj5uK",
+    "discount": true,
+    "discount_in_tao": 0.1,
+    "price_estimated_in_tao": 0.4,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "pepe.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x362f58637177ae1159dba7d76ff86aeec0f3bb421869aaf7e5e9a110243a8bfc",
+    "previous_cid": null,
+    "wallet_address": "5FU5PqDSWUuA97sKK3Nbahsj89ejCEcVMuejgDQjgdeUj5uK",
+    "order_id": "6ff18b66-60b2-486f-b633-933ad8f50271",
+    "event_date": "2025-03-10 18:22:37",
+    "expire_date": "2026-03-10 18:22:37"
+  }
+}
