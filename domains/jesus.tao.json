@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "jesus.tao",
+    "domain_name": "jesus",
+    "expire_date": "2026-03-05 00:37:01",
+    "created_at": "2025-03-05 00:37:01",
+    "wallet_address": "5DD7xG5TJ48W7j7DUbHG5whrAkwUrbPe1NahiFbKqzytfhVt",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "jesus.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x2c55654abafc2d5c41524c3d76c464345fa4624c097a858e451128e94e564073",
+    "previous_cid": null,
+    "wallet_address": "5DD7xG5TJ48W7j7DUbHG5whrAkwUrbPe1NahiFbKqzytfhVt",
+    "order_id": "97f57afa-ae0f-4d06-82de-332225536aea",
+    "event_date": "2025-03-05 00:37:01",
+    "expire_date": "2026-03-05 00:37:01"
+  }
+}
