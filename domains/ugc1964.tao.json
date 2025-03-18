@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "ugc1964.tao",
+    "domain_name": "ugc1964",
+    "expire_date": "2026-03-03 16:50:54",
+    "created_at": "2025-03-03 16:50:54",
+    "wallet_address": "5Fsyp8pQTcGdyoYXfdXEnaJAUyFG8MPz5i82bbpGZdGHzudX",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "ugc1964.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x9150ee9953dd10b60c72733aaedad46e14f63a463e1f238122f2ebaf2c2611ea",
+    "previous_cid": null,
+    "wallet_address": "5Fsyp8pQTcGdyoYXfdXEnaJAUyFG8MPz5i82bbpGZdGHzudX",
+    "order_id": "02c22f37-bf45-4e10-84ad-dcef765834ee",
+    "event_date": "2025-03-03 16:50:54",
+    "expire_date": "2026-03-03 16:50:54"
+  }
+}
