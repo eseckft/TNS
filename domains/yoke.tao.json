@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "yoke.tao",
+    "domain_name": "yoke",
+    "expire_date": "2026-03-08 20:24:09",
+    "created_at": "2025-03-08 20:24:09",
+    "wallet_address": "5FC2rtRL4QKSxEgjWNWvJATRXmZP7d6wuQAEogHKeQas4sRf",
+    "discount": true,
+    "discount_in_tao": 0.1,
+    "price_estimated_in_tao": 0.4,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "yoke.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xffa4084936f10b318f6f983b24c951cfc723a6a1a517c092f97cab95d9bb8f8b",
+    "previous_cid": null,
+    "wallet_address": "5FC2rtRL4QKSxEgjWNWvJATRXmZP7d6wuQAEogHKeQas4sRf",
+    "order_id": "ad0d043c-9f95-4fe8-8c79-afe2a17c99ed",
+    "event_date": "2025-03-08 20:24:09",
+    "expire_date": "2026-03-08 20:24:09"
+  }
+}
