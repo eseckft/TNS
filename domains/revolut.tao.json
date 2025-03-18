@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "revolut.tao",
+    "domain_name": "revolut",
+    "expire_date": "2026-03-04 19:35:06",
+    "created_at": "2025-03-04 19:35:06",
+    "wallet_address": "5CAqxbLV1Uw3DRCTy8fxXbxEpTZzLsBWi12gZyXFntUBot8g",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "revolut.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xe23963bd7dbf0e7e2f23c751020d0a0adcd527bfcddfdfdcb17eea899c1d4231",
+    "previous_cid": null,
+    "wallet_address": "5CAqxbLV1Uw3DRCTy8fxXbxEpTZzLsBWi12gZyXFntUBot8g",
+    "order_id": "fe625287-64f1-4809-84f5-fba6fc0c72bf",
+    "event_date": "2025-03-04 19:35:06",
+    "expire_date": "2026-03-04 19:35:06"
+  }
+}
