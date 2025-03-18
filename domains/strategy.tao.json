@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "strategy.tao",
+    "domain_name": "strategy",
+    "expire_date": "2026-03-04 20:55:28",
+    "created_at": "2025-03-04 20:55:28",
+    "wallet_address": "5CDiCrBiZ2fDusGpLpq2EyomoPDmKp79KhWWBPbG5vwR4NDF",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "strategy.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x17b1dcf6b6dea5969715d3a408af395e41819fd57093645a780e30cfad68bdf0",
+    "previous_cid": null,
+    "wallet_address": "5CDiCrBiZ2fDusGpLpq2EyomoPDmKp79KhWWBPbG5vwR4NDF",
+    "order_id": "5180fbd9-4f0f-4f68-9ce9-15efc29eb597",
+    "event_date": "2025-03-04 20:55:28",
+    "expire_date": "2026-03-04 20:55:28"
+  }
+}
