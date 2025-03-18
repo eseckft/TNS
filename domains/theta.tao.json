@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "theta.tao",
+    "domain_name": "theta",
+    "expire_date": "2026-03-03 16:02:26",
+    "created_at": "2025-03-03 16:02:26",
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "theta.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x91d1dc1db4c6c8fdb2add6f88601b4a86be2ed2b434c49cc06617b3fd08e1140",
+    "previous_cid": null,
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "order_id": "449269e1-fc63-4055-a159-7c1062bbd083",
+    "event_date": "2025-03-03 16:02:26",
+    "expire_date": "2026-03-03 16:02:26"
+  }
+}
