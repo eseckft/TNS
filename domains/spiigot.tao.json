@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "spiigot.tao",
+    "domain_name": "spiigot",
+    "expire_date": "2026-03-17 20:05:06",
+    "created_at": "2025-03-17 20:05:06",
+    "wallet_address": "5DD7xG5TJ48W7j7DUbHG5whrAkwUrbPe1NahiFbKqzytfhVt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "spiigot.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x0cb62e65c6d95e0061dc266dc49d3a4f6853aeca2ee921dd5521049a312e1354",
+    "previous_cid": null,
+    "wallet_address": "5DD7xG5TJ48W7j7DUbHG5whrAkwUrbPe1NahiFbKqzytfhVt",
+    "order_id": "de65bc0f-2f7e-400d-acec-22d4d973d3e2",
+    "event_date": "2025-03-17 20:05:06",
+    "expire_date": "2026-03-17 20:05:06"
+  }
+}
