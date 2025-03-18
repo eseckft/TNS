@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "autoppia.tao",
+    "domain_name": "autoppia",
+    "expire_date": "2026-03-03 16:20:22",
+    "created_at": "2025-03-03 16:20:22",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "discount": true,
+    "discount_in_tao": 0.15,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "autoppia.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xa89c5ae7aa3bd062118e4f73549c90b8b3194a20fd6b04c02ab157714d10f882",
+    "previous_cid": null,
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "order_id": "4fa56e57-59ca-4190-a087-73fcf70dfae6",
+    "event_date": "2025-03-03 16:20:22",
+    "expire_date": "2026-03-03 16:20:22"
+  }
+}
