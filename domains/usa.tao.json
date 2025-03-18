@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "usa.tao",
+    "domain_name": "usa",
+    "expire_date": "2026-03-03 16:16:37",
+    "created_at": "2025-03-03 16:16:37",
+    "wallet_address": "5D9xhbvTBaVBaakkXYionNCzsxKgW5Sv3tSHDDDNRuK8TQi8",
+    "discount": true,
+    "discount_in_tao": 0.2,
+    "price_estimated_in_tao": 0.8,
+    "cost_in_tao": 1
+  },
+  "latest_event": {
+    "domain": "usa.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xde04ffd4afc0accac91ec15b58bdaf067147b8fc8f913dd9253efba55162b828",
+    "previous_cid": null,
+    "wallet_address": "5D9xhbvTBaVBaakkXYionNCzsxKgW5Sv3tSHDDDNRuK8TQi8",
+    "order_id": "ac6660a5-f85e-42c5-acfc-f8ac2685644c",
+    "event_date": "2025-03-03 16:16:37",
+    "expire_date": "2026-03-03 16:16:37"
+  }
+}
