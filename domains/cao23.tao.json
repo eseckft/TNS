@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "cao23.tao",
+    "domain_name": "cao23",
+    "expire_date": "2026-03-05 00:46:23",
+    "created_at": "2025-03-05 00:46:23",
+    "wallet_address": "5FeEpokAh5DZn9bX1vcqCVUgVs3cZysNg38YphwbcXd5CcUY",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "cao23.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x871f6f2df1cc47e65ea677ba1b761918cca7b41fa7a7dd21bec929d9a4282a34",
+    "previous_cid": null,
+    "wallet_address": "5FeEpokAh5DZn9bX1vcqCVUgVs3cZysNg38YphwbcXd5CcUY",
+    "order_id": "6a02fd56-8824-49d0-b17c-47f6643f1c3e",
+    "event_date": "2025-03-05 00:46:23",
+    "expire_date": "2026-03-05 00:46:23"
+  }
+}
