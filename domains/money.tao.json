@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "money.tao",
+    "domain_name": "money",
+    "expire_date": "2026-03-15 22:48:25",
+    "created_at": "2025-03-15 22:48:25",
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "money.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x5524685c2e77369a3b36aa3761883ba80b1007c1ce3705c75271c90f8536657a",
+    "previous_cid": null,
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "order_id": "b6a94be1-8c65-4d66-bbe7-44764ad5452e",
+    "event_date": "2025-03-15 22:48:25",
+    "expire_date": "2026-03-15 22:48:25"
+  }
+}
