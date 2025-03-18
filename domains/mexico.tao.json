@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "mexico.tao",
+    "domain_name": "mexico",
+    "expire_date": "2026-03-03 19:06:41",
+    "created_at": "2025-03-03 19:06:41",
+    "wallet_address": "5GWq7gWVCTwXPKEUJhXHrcuLM3ed5DVY9Pc6wwodFckJqeHu",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "mexico.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xb976887482a4f2a9750af18ca98f96046ae5574744438eaac26480115f1f74e4",
+    "previous_cid": null,
+    "wallet_address": "5GWq7gWVCTwXPKEUJhXHrcuLM3ed5DVY9Pc6wwodFckJqeHu",
+    "order_id": "a33e2e7f-6d89-4df4-976f-c7595caba526",
+    "event_date": "2025-03-03 19:06:41",
+    "expire_date": "2026-03-03 19:06:41"
+  }
+}
