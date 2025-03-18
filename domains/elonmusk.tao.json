@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "elonmusk.tao",
+    "domain_name": "elonmusk",
+    "expire_date": "2026-03-03 16:15:22",
+    "created_at": "2025-03-03 16:15:22",
+    "wallet_address": "5D9xhbvTBaVBaakkXYionNCzsxKgW5Sv3tSHDDDNRuK8TQi8",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "elonmusk.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xa174589df91855fd18cdfacf97bbd9815a8fb7fc02e3ef5b820db0f72d1e5a57",
+    "previous_cid": null,
+    "wallet_address": "5D9xhbvTBaVBaakkXYionNCzsxKgW5Sv3tSHDDDNRuK8TQi8",
+    "order_id": "bfcab277-2125-41ea-bc84-11cf5586b36b",
+    "event_date": "2025-03-03 16:15:22",
+    "expire_date": "2026-03-03 16:15:22"
+  }
+}
