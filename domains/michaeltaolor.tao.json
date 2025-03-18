@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "michaeltaolor.tao",
+    "domain_name": "michaeltaolor",
+    "expire_date": "2026-03-03 21:10:22",
+    "created_at": "2025-03-03 21:10:22",
+    "wallet_address": "5Ev134jyVxR7PfXv1jPP6betRsPXGMcBdBJB4QPZWbTcB8BB",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "michaeltaolor.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xc69e731c65750e79464001a6add76f799d6e2414bc4099e89622830347a9afb1",
+    "previous_cid": "QmQQTFr7YnsAxxxXhRu1PzxpvDPyUQ5EvFM2EByRxGiWb1",
+    "wallet_address": "5Ev134jyVxR7PfXv1jPP6betRsPXGMcBdBJB4QPZWbTcB8BB",
+    "order_id": "5381a339-3c10-40db-a10e-64213481228d",
+    "event_date": "2025-03-03 21:10:22",
+    "expire_date": "2026-03-03 21:10:22"
+  }
+}
