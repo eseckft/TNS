@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "inference.tao",
+    "domain_name": "inference",
+    "expire_date": "2026-03-03 16:17:55",
+    "created_at": "2025-03-03 16:17:55",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "discount": true,
+    "discount_in_tao": 0.15,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "inference.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x7b394f0e11f4eee48a9793d08f679db0b08b993a53f412968edef47e8e89f0fe",
+    "previous_cid": null,
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "order_id": "aa84d8b4-c5da-4f31-bd94-573c0b4bc734",
+    "event_date": "2025-03-03 16:17:55",
+    "expire_date": "2026-03-03 16:17:55"
+  }
+}
