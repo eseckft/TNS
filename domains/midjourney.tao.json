@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "midjourney.tao",
+    "domain_name": "midjourney",
+    "expire_date": "2026-03-03 23:27:57",
+    "created_at": "2025-03-03 23:27:57",
+    "wallet_address": "5DhZnZBYgYMjCawNkBjoT2EUrSVChvbT6eeg7SvdmPZqfESD",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "midjourney.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xf91e49d0209d40747e46b549ddd6c393f2dcb282774e7784c786ccb09c18a45b",
+    "previous_cid": null,
+    "wallet_address": "5DhZnZBYgYMjCawNkBjoT2EUrSVChvbT6eeg7SvdmPZqfESD",
+    "order_id": "9eb927d9-468d-417e-a1fd-1f33ce645c35",
+    "event_date": "2025-03-03 23:27:57",
+    "expire_date": "2026-03-03 23:27:57"
+  }
+}
