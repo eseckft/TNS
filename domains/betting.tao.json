@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "betting.tao",
+    "domain_name": "betting",
+    "expire_date": "2026-03-03 16:53:04",
+    "created_at": "2025-03-03 16:53:04",
+    "wallet_address": "5D9xhbvTBaVBaakkXYionNCzsxKgW5Sv3tSHDDDNRuK8TQi8",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "betting.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x16ca1f58320525b622d8911c98692231f82da9ec5cd612c65dcaaa92b78dda35",
+    "previous_cid": null,
+    "wallet_address": "5D9xhbvTBaVBaakkXYionNCzsxKgW5Sv3tSHDDDNRuK8TQi8",
+    "order_id": "92b04e09-ec11-4223-8297-83139d5bf476",
+    "event_date": "2025-03-03 16:53:04",
+    "expire_date": "2026-03-03 16:53:04"
+  }
+}
