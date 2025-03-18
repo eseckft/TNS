@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "shogundao.tao",
+    "domain_name": "shogundao",
+    "expire_date": "2026-03-04 03:22:00",
+    "created_at": "2025-03-04 03:22:00",
+    "wallet_address": "5CqHhgeEbpcz5RpEZG2zLgD4xfDaqDxYyfzx6J65S2iAJjRj",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "shogundao.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x4696ecba976aa39ca89d57982d1059073bfbda1baeb299cd8064ec5e44e7f7bc",
+    "previous_cid": null,
+    "wallet_address": "5CqHhgeEbpcz5RpEZG2zLgD4xfDaqDxYyfzx6J65S2iAJjRj",
+    "order_id": "8c8f1b66-778a-4b05-badf-c44bd24aa88a",
+    "event_date": "2025-03-04 03:22:00",
+    "expire_date": "2026-03-04 03:22:00"
+  }
+}
