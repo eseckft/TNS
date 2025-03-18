@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "999.tao",
+    "domain_name": "999",
+    "expire_date": "2026-03-03 17:08:50",
+    "created_at": "2025-03-03 17:08:50",
+    "wallet_address": "5CtqFTahn2CTTkTBnScbr8KkYbvCaYcZTDbaecoJp8wVw17z",
+    "discount": true,
+    "discount_in_tao": 0.2,
+    "price_estimated_in_tao": 0.8,
+    "cost_in_tao": 1
+  },
+  "latest_event": {
+    "domain": "999.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xe94a275a0e9d3477f0f03b3e4a72ea83f461520cbc5d04818199ee9527792655",
+    "previous_cid": "QmRRvEHgWRMPogtHHhd4bqrcogmLH9vhV19eg5KictwZYv",
+    "wallet_address": "5CtqFTahn2CTTkTBnScbr8KkYbvCaYcZTDbaecoJp8wVw17z",
+    "order_id": "818aaff7-801a-4ba0-8a91-2b420cc64663",
+    "event_date": "2025-03-03 17:08:50",
+    "expire_date": "2026-03-03 17:08:50"
+  }
+}
