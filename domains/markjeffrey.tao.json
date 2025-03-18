@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "markjeffrey.tao",
+    "domain_name": "markjeffrey",
+    "expire_date": "2026-03-18 02:14:54",
+    "created_at": "2025-03-18 02:14:54",
+    "wallet_address": "5GYSSf6f5DWpzWj1xWPcS247prFXUyhVdWeexD3CD95q9g8s",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "markjeffrey.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x6730f08ae156e8461147948865f0cc5465100ab1554699497076c5fd72b53412",
+    "previous_cid": null,
+    "wallet_address": "5GYSSf6f5DWpzWj1xWPcS247prFXUyhVdWeexD3CD95q9g8s",
+    "order_id": "07d66626-a13a-4556-890f-35b77a7a91ad",
+    "event_date": "2025-03-18 02:14:54",
+    "expire_date": "2026-03-18 02:14:54"
+  }
+}
