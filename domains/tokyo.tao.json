@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "tokyo.tao",
+    "domain_name": "tokyo",
+    "expire_date": "2026-03-15 23:16:43",
+    "created_at": "2025-03-15 23:16:43",
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "tokyo.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x0ce3516e3861caed2d135d7cf88ce444cb08124b26f58a3f3af71d6a48c4f483",
+    "previous_cid": null,
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "order_id": "3aabbf0f-29b9-409c-8811-ebdbd0498953",
+    "event_date": "2025-03-15 23:16:43",
+    "expire_date": "2026-03-15 23:16:43"
+  }
+}
