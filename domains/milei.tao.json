@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "milei.tao",
+    "domain_name": "milei",
+    "expire_date": "2026-03-07 04:55:38",
+    "created_at": "2025-03-07 04:55:38",
+    "wallet_address": "5HdS9bvMP3faWXpfzp9hQ3WMeJUbahQjwLyK87Tp68NyrEar",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "milei.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x3cdd8fa19bddaaba166ffe2b1dba9f33dff799338360e9ad12a1eb2f9ab71614",
+    "previous_cid": null,
+    "wallet_address": "5HdS9bvMP3faWXpfzp9hQ3WMeJUbahQjwLyK87Tp68NyrEar",
+    "order_id": "35d2a067-042b-40f2-8edd-206d11c65515",
+    "event_date": "2025-03-07 04:55:38",
+    "expire_date": "2026-03-07 04:55:38"
+  }
+}
