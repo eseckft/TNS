@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "latent.tao",
+    "domain_name": "latent",
+    "expire_date": "2026-03-03 16:28:22",
+    "created_at": "2025-03-03 16:28:22",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "latent.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xf00fb6fea1fc7f8eafb525f1554c61fa22231889e9cfa0ce44d4f3a28962494e",
+    "previous_cid": null,
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "order_id": "f5924e19-2248-4ec1-8db1-c183cb07b3d1",
+    "event_date": "2025-03-03 16:28:22",
+    "expire_date": "2026-03-03 16:28:22"
+  }
+}
