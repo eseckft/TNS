@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "uae.tao",
+    "domain_name": "uae",
+    "expire_date": "2026-03-03 16:12:00",
+    "created_at": "2025-03-03 16:12:00",
+    "wallet_address": "5D9xhbvTBaVBaakkXYionNCzsxKgW5Sv3tSHDDDNRuK8TQi8",
+    "discount": true,
+    "discount_in_tao": 0.2,
+    "price_estimated_in_tao": 0.8,
+    "cost_in_tao": 1
+  },
+  "latest_event": {
+    "domain": "uae.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x62868ea9c8bd813b7d9330f43f6ef7c76c56eabec4adbafe1a508c90f9a7e577",
+    "previous_cid": null,
+    "wallet_address": "5D9xhbvTBaVBaakkXYionNCzsxKgW5Sv3tSHDDDNRuK8TQi8",
+    "order_id": "eed80826-3bad-4128-adb9-f48c34de4a1b",
+    "event_date": "2025-03-03 16:12:00",
+    "expire_date": "2026-03-03 16:12:00"
+  }
+}
