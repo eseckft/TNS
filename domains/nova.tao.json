@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "nova.tao",
+    "domain_name": "nova",
+    "expire_date": "2026-03-03 16:15:10",
+    "created_at": "2025-03-03 16:15:10",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "discount": true,
+    "discount_in_tao": 0.3,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "nova.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x938a4adbbd857628333e36c06455c28879ca160a86b8aa0c71d147b134f7c18e",
+    "previous_cid": null,
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "order_id": "49d2d008-3222-4e8a-84ac-378962a545d2",
+    "event_date": "2025-03-03 16:15:10",
+    "expire_date": "2026-03-03 16:15:10"
+  }
+}
