@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "sports.tao",
+    "domain_name": "sports",
+    "expire_date": "2026-03-03 17:03:33",
+    "created_at": "2025-03-03 17:03:33",
+    "wallet_address": "5CtqFTahn2CTTkTBnScbr8KkYbvCaYcZTDbaecoJp8wVw17z",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "sports.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x05f80e78949ef4931a3b131538625eda309de4ff77a9ccdd05c63911ac0a7781",
+    "previous_cid": null,
+    "wallet_address": "5CtqFTahn2CTTkTBnScbr8KkYbvCaYcZTDbaecoJp8wVw17z",
+    "order_id": "3261c246-dcb0-4402-83eb-c014fc53e524",
+    "event_date": "2025-03-03 17:03:33",
+    "expire_date": "2026-03-03 17:03:33"
+  }
+}
