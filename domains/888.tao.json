@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "888.tao",
+    "domain_name": "888",
+    "expire_date": "2026-03-03 16:19:27",
+    "created_at": "2025-03-03 16:19:27",
+    "wallet_address": "5EtZERSkFVzDUnnCWL49FLPbc6ZsrA6bXt4QKmRAeX689JTk",
+    "discount": true,
+    "discount_in_tao": 0.2,
+    "price_estimated_in_tao": 0.8,
+    "cost_in_tao": 1
+  },
+  "latest_event": {
+    "domain": "888.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x0267bb71d7e4ddaa824d4b76b5372aaeeeedabd9797e8a49541a3dc7bedc71be",
+    "previous_cid": null,
+    "wallet_address": "5EtZERSkFVzDUnnCWL49FLPbc6ZsrA6bXt4QKmRAeX689JTk",
+    "order_id": "3a7f3260-254d-46a2-a1ae-d2422706042e",
+    "event_date": "2025-03-03 16:19:27",
+    "expire_date": "2026-03-03 16:19:27"
+  }
+}
