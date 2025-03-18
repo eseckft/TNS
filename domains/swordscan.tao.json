@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "swordscan.tao",
+    "domain_name": "swordscan",
+    "expire_date": "2026-03-04 03:23:10",
+    "created_at": "2025-03-04 03:23:10",
+    "wallet_address": "5CqHhgeEbpcz5RpEZG2zLgD4xfDaqDxYyfzx6J65S2iAJjRj",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "swordscan.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x4d0c0b0edcce89b742f7f95ce52705d174a2bb2b11b9c22c7b2159381c9fac3f",
+    "previous_cid": null,
+    "wallet_address": "5CqHhgeEbpcz5RpEZG2zLgD4xfDaqDxYyfzx6J65S2iAJjRj",
+    "order_id": "fb4a0b49-ee8c-4792-b80b-0b00561f976a",
+    "event_date": "2025-03-04 03:23:10",
+    "expire_date": "2026-03-04 03:23:10"
+  }
+}
