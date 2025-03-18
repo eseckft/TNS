@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "lazz.tao",
+    "domain_name": "lazz",
+    "expire_date": "2026-03-04 05:59:41",
+    "created_at": "2025-03-04 05:59:41",
+    "wallet_address": "5G9CJXWzY6YbaXg6JZXoUvhFDMNo7t7DpkR8R1DGqnnhrNPm",
+    "discount": true,
+    "discount_in_tao": 0.1,
+    "price_estimated_in_tao": 0.4,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "lazz.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xf6888e0c4abc4f64ba2afa8619a02374f8274e394b13b0546bc6e1c703effb96",
+    "previous_cid": null,
+    "wallet_address": "5G9CJXWzY6YbaXg6JZXoUvhFDMNo7t7DpkR8R1DGqnnhrNPm",
+    "order_id": "2155ee35-657c-4e8a-b472-65946928d6e0",
+    "event_date": "2025-03-04 05:59:41",
+    "expire_date": "2026-03-04 05:59:41"
+  }
+}
