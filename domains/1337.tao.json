@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "1337.tao",
+    "domain_name": "1337",
+    "expire_date": "2026-03-03 22:51:03",
+    "created_at": "2025-03-03 22:51:03",
+    "wallet_address": "5DhZnZBYgYMjCawNkBjoT2EUrSVChvbT6eeg7SvdmPZqfESD",
+    "discount": true,
+    "discount_in_tao": 0.1,
+    "price_estimated_in_tao": 0.4,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "1337.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x9a2e6b29c16b3cc163d6e8d98328cb353fa82563418a8b73500641b18d556704",
+    "previous_cid": null,
+    "wallet_address": "5DhZnZBYgYMjCawNkBjoT2EUrSVChvbT6eeg7SvdmPZqfESD",
+    "order_id": "08b43471-3857-4912-aa02-ce1751ae82a3",
+    "event_date": "2025-03-03 22:51:03",
+    "expire_date": "2026-03-03 22:51:03"
+  }
+}
