@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "tesla.tao",
+    "domain_name": "tesla",
+    "expire_date": "2026-03-04 16:15:58",
+    "created_at": "2025-03-04 16:15:58",
+    "wallet_address": "5HYkKVW1csbvPVdaJKo53DACWMZWzSU5MY8KeKMh7eoBbm91",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "tesla.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xef8b139ddce3027e94e88d7d784af39c9819075a87fe2a5b65b95de60d35a7b7",
+    "previous_cid": null,
+    "wallet_address": "5HYkKVW1csbvPVdaJKo53DACWMZWzSU5MY8KeKMh7eoBbm91",
+    "order_id": "25345205-17ba-4cc5-99fb-ed0f7092cda6",
+    "event_date": "2025-03-04 16:15:58",
+    "expire_date": "2026-03-04 16:15:58"
+  }
+}
