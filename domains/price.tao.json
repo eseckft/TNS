@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "price.tao",
+    "domain_name": "price",
+    "expire_date": "2026-03-07 15:59:30",
+    "created_at": "2025-03-07 15:59:30",
+    "wallet_address": "5FU5PqDSWUuA97sKK3Nbahsj89ejCEcVMuejgDQjgdeUj5uK",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "price.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x049c4d6d26a5baea93db1c58990756e33a44b5a16e01dba37dd0135ccc3ad9a9",
+    "previous_cid": null,
+    "wallet_address": "5FU5PqDSWUuA97sKK3Nbahsj89ejCEcVMuejgDQjgdeUj5uK",
+    "order_id": "c071003f-0b4a-4938-8c58-bceee2b82cd5",
+    "event_date": "2025-03-07 15:59:30",
+    "expire_date": "2026-03-07 15:59:30"
+  }
+}
