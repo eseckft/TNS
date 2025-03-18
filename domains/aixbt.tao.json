@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "aixbt.tao",
+    "domain_name": "aixbt",
+    "expire_date": "2026-03-03 21:20:17",
+    "created_at": "2025-03-03 21:20:17",
+    "wallet_address": "5EZWd6p1P61hHSm3zevi54pMPd83oE9YYoGLHby2NzNfHwRv",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "aixbt.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x84903c2ad4460cd9df77aa1bbd44f1b7f4ee142c5a0c141d77fbc93c5dbb0427",
+    "previous_cid": null,
+    "wallet_address": "5EZWd6p1P61hHSm3zevi54pMPd83oE9YYoGLHby2NzNfHwRv",
+    "order_id": "49afe215-4dce-45d6-9ce1-65e57454ee25",
+    "event_date": "2025-03-03 21:20:17",
+    "expire_date": "2026-03-03 21:20:17"
+  }
+}
