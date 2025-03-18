@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "opentensorfoundation.tao",
+    "domain_name": "opentensorfoundation",
+    "expire_date": "2026-03-03 17:13:41",
+    "created_at": "2025-03-03 17:13:41",
+    "wallet_address": "5HDh4tPxBdkv2VaySALvk1JkoFSWtfe8o243npWhcTxqC7hX",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "opentensorfoundation.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xac10661ef62b3c7b4ce60f2a42083416bc8a251a4bdd2a6c0cb375ddf9d1a16a",
+    "previous_cid": null,
+    "wallet_address": "5HDh4tPxBdkv2VaySALvk1JkoFSWtfe8o243npWhcTxqC7hX",
+    "order_id": "3a03838a-a721-4e38-bfce-12f5bef68738",
+    "event_date": "2025-03-03 17:13:41",
+    "expire_date": "2026-03-03 17:13:41"
+  }
+}
