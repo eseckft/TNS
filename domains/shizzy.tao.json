@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "shizzy.tao",
+    "domain_name": "shizzy",
+    "expire_date": "2026-03-03 21:19:01",
+    "created_at": "2025-03-03 21:19:01",
+    "wallet_address": "5CtkeYcTYnf9vxNPMggiwtLUYc5BLk6jH38KAzsZoaueMHWm",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "shizzy.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x48476c0245a4805412d48818a3d1d251bfed4275833f536d287c1adcd4250a29",
+    "previous_cid": null,
+    "wallet_address": "5CtkeYcTYnf9vxNPMggiwtLUYc5BLk6jH38KAzsZoaueMHWm",
+    "order_id": "6efd9eee-12c7-4905-8d2d-6fa0fb8f3867",
+    "event_date": "2025-03-03 21:19:01",
+    "expire_date": "2026-03-03 21:19:01"
+  }
+}
