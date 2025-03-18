@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "rao.tao",
+    "domain_name": "rao",
+    "expire_date": "2026-03-03 21:40:05",
+    "created_at": "2025-03-03 21:40:05",
+    "wallet_address": "5H9cMo2M3W5eBtVi7Tey5MNQFiD4LYBKRgQHDR7EWpDEaM3m",
+    "discount": true,
+    "discount_in_tao": 0.2,
+    "price_estimated_in_tao": 0.8,
+    "cost_in_tao": 1
+  },
+  "latest_event": {
+    "domain": "rao.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xc6430bdc0212e50878619f2a6a8b3b63924d79a19971b5b33095984f9ceb1c86",
+    "previous_cid": null,
+    "wallet_address": "5H9cMo2M3W5eBtVi7Tey5MNQFiD4LYBKRgQHDR7EWpDEaM3m",
+    "order_id": "9cc9babf-0072-4551-a2a3-b8adcb0f5f4b",
+    "event_date": "2025-03-03 21:40:05",
+    "expire_date": "2026-03-03 21:40:05"
+  }
+}
