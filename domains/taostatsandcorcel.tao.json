@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "taostatsandcorcel.tao",
+    "domain_name": "taostatsandcorcel",
+    "expire_date": "2026-03-03 17:08:52",
+    "created_at": "2025-03-03 17:08:52",
+    "wallet_address": "5HDh4tPxBdkv2VaySALvk1JkoFSWtfe8o243npWhcTxqC7hX",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "taostatsandcorcel.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xbffefdc52ba5c5a43d7c8633b65c17109e334b537573a9ca456d20272fec4064",
+    "previous_cid": null,
+    "wallet_address": "5HDh4tPxBdkv2VaySALvk1JkoFSWtfe8o243npWhcTxqC7hX",
+    "order_id": "86341be5-78b7-43e1-92d6-edb22369d228",
+    "event_date": "2025-03-03 17:08:52",
+    "expire_date": "2026-03-03 17:08:52"
+  }
+}
