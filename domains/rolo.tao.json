@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "rolo.tao",
+    "domain_name": "rolo",
+    "expire_date": "2026-03-05 12:28:33",
+    "created_at": "2025-03-05 12:28:33",
+    "wallet_address": "5HU4amN5RS4YfA6zZMLwWtMaHtoLUAsTC8u2sGy4X2vSNFXb",
+    "discount": true,
+    "discount_in_tao": 0.1,
+    "price_estimated_in_tao": 0.4,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "rolo.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xc6823b025f1dd113107d4f0abddd32f3199b5743381cff038aeb3533e370bb27",
+    "previous_cid": null,
+    "wallet_address": "5HU4amN5RS4YfA6zZMLwWtMaHtoLUAsTC8u2sGy4X2vSNFXb",
+    "order_id": "5b6b0919-4a25-44de-b9ca-4e63c8c4c75c",
+    "event_date": "2025-03-05 12:28:33",
+    "expire_date": "2026-03-05 12:28:33"
+  }
+}
