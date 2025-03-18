@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "sicarii.tao",
+    "domain_name": "sicarii",
+    "expire_date": "2026-03-06 23:06:49",
+    "created_at": "2025-03-06 23:06:49",
+    "wallet_address": "5CZkUU93TatDMcwQsduaopbyWWhXoEdUenXxwZDRRpQsrrJV",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "sicarii.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x947f1f3418f401a286aa52686de1bd38abbf0078f0f90b01394e0932e8d58bf3",
+    "previous_cid": null,
+    "wallet_address": "5CZkUU93TatDMcwQsduaopbyWWhXoEdUenXxwZDRRpQsrrJV",
+    "order_id": "05368cf0-04c9-4945-bf8e-154c67bf4617",
+    "event_date": "2025-03-06 23:06:49",
+    "expire_date": "2026-03-06 23:06:49"
+  }
+}
