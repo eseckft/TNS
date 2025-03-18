@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "youtube.tao",
+    "domain_name": "youtube",
+    "expire_date": "2026-03-04 22:05:36",
+    "created_at": "2025-03-04 22:05:36",
+    "wallet_address": "5CAqxbLV1Uw3DRCTy8fxXbxEpTZzLsBWi12gZyXFntUBot8g",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "youtube.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x17d93bb28c2a15dcdff52a78589e5491588c7913aeb52862077d5ad953802b7d",
+    "previous_cid": null,
+    "wallet_address": "5CAqxbLV1Uw3DRCTy8fxXbxEpTZzLsBWi12gZyXFntUBot8g",
+    "order_id": "4e5b6131-c90f-4052-a7a0-d279d20f41c4",
+    "event_date": "2025-03-04 22:05:36",
+    "expire_date": "2026-03-04 22:05:36"
+  }
+}
