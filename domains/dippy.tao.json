@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "dippy.tao",
+    "domain_name": "dippy",
+    "expire_date": "2026-03-03 16:16:52",
+    "created_at": "2025-03-03 16:16:52",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "discount": true,
+    "discount_in_tao": 0.15,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "dippy.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x4d9ff6f9a79a9f67b164c209f5d7b2884bb5dc0ca135be513b4c6ced336d9175",
+    "previous_cid": null,
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "order_id": "9d58d0ce-8c6c-407b-91fd-875bc08eebb1",
+    "event_date": "2025-03-03 16:16:52",
+    "expire_date": "2026-03-03 16:16:52"
+  }
+}
