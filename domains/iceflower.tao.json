@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "iceflower.tao",
+    "domain_name": "iceflower",
+    "expire_date": "2026-03-03 17:56:42",
+    "created_at": "2025-03-03 17:56:42",
+    "wallet_address": "5D5WYkaTRQ4k39Jq7FZwZixZhHdCQtRQMPkCx69xCc8ZcaX4",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "iceflower.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xc312523d209d6456f959e274addef6e0c23a8a39691e0b920b315011655d3740",
+    "previous_cid": null,
+    "wallet_address": "5D5WYkaTRQ4k39Jq7FZwZixZhHdCQtRQMPkCx69xCc8ZcaX4",
+    "order_id": "f605efb8-98f3-44b0-93b2-0dbb80b417fa",
+    "event_date": "2025-03-03 17:56:42",
+    "expire_date": "2026-03-03 17:56:42"
+  }
+}
