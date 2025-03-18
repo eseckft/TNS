@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "cloud.tao",
+    "domain_name": "cloud",
+    "expire_date": "2026-03-05 02:04:10",
+    "created_at": "2025-03-05 02:04:10",
+    "wallet_address": "5CLkURB7EH2Py6DfL2MS3WWXi8DBMB1DAquBWrJDzprzQxxo",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "cloud.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x89bcaf427349d8144aa5eccfee73a5ceb4cf47f9e8aec47a4cdb15f12ba36aee",
+    "previous_cid": null,
+    "wallet_address": "5CLkURB7EH2Py6DfL2MS3WWXi8DBMB1DAquBWrJDzprzQxxo",
+    "order_id": "bb6f6816-448f-4ec1-a6f7-1afa1d7e4754",
+    "event_date": "2025-03-05 02:04:10",
+    "expire_date": "2026-03-05 02:04:10"
+  }
+}
