@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "silbert.tao",
+    "domain_name": "silbert",
+    "expire_date": "2026-03-05 00:46:35",
+    "created_at": "2025-03-05 00:46:35",
+    "wallet_address": "5CLkURB7EH2Py6DfL2MS3WWXi8DBMB1DAquBWrJDzprzQxxo",
+    "discount": true,
+    "discount_in_tao": 0.15,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "silbert.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x211d5ab2feedc53d3fbf066d4aa153be9a2b5eaf07bb2b75b3a9e973eb4c610d",
+    "previous_cid": null,
+    "wallet_address": "5CLkURB7EH2Py6DfL2MS3WWXi8DBMB1DAquBWrJDzprzQxxo",
+    "order_id": "7229bccc-5e08-43db-88a2-0560bb48a640",
+    "event_date": "2025-03-05 00:46:35",
+    "expire_date": "2026-03-05 00:46:35"
+  }
+}
