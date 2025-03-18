@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "taoarmy.tao",
+    "domain_name": "taoarmy",
+    "expire_date": "2026-03-03 17:33:17",
+    "created_at": "2025-03-03 17:33:17",
+    "wallet_address": "5CqKHXL2GtvaYu9evcK2CcThgFetcxZGV39Mfd51HbxF52DA",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "taoarmy.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xe85225c79df54909c1bfba87515e5961d6cd342ac36bd8d91227ce3ac1539126",
+    "previous_cid": "QmSdBvAhSYsFeecwC1wpmyf3DAAHykCj3hurSHSyEobtH7",
+    "wallet_address": "5CqKHXL2GtvaYu9evcK2CcThgFetcxZGV39Mfd51HbxF52DA",
+    "order_id": "1d55731e-0d54-4512-bccb-de2622c6319b",
+    "event_date": "2025-03-03 17:33:17",
+    "expire_date": "2026-03-03 17:33:17"
+  }
+}
