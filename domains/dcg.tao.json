@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "dcg.tao",
+    "domain_name": "dcg",
+    "expire_date": "2026-03-03 17:15:00",
+    "created_at": "2025-03-03 17:15:00",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "discount": true,
+    "discount_in_tao": 0.2,
+    "price_estimated_in_tao": 0.8,
+    "cost_in_tao": 1
+  },
+  "latest_event": {
+    "domain": "dcg.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x5d79996ba1b43dc69ddb1e3d190911f81de847e506fd2caf7227f1b3ba940460",
+    "previous_cid": "QmbWHeRyooiuMSWw97B2oTr25cRrkx34HCMhwBXmb2dytB",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "order_id": "db6e22b2-9810-4e95-9468-fd6dbceebd54",
+    "event_date": "2025-03-03 17:15:00",
+    "expire_date": "2026-03-03 17:15:00"
+  }
+}
