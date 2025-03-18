@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "dynamic.tao",
+    "domain_name": "dynamic",
+    "expire_date": "2026-03-03 16:09:00",
+    "created_at": "2025-03-03 16:09:00",
+    "wallet_address": "5HREHstZnJRSQqGJwDbezpAy8meFWJym9PQc5yEXfJFyKHn2",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "dynamic.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xd6623d6522cb7d205e26cafeb6f5da4fb8c8ebd21c2b5531d4bd113c31190a21",
+    "previous_cid": null,
+    "wallet_address": "5HREHstZnJRSQqGJwDbezpAy8meFWJym9PQc5yEXfJFyKHn2",
+    "order_id": "1a99e02a-172c-4fd1-9f1a-860087f51178",
+    "event_date": "2025-03-03 16:09:00",
+    "expire_date": "2026-03-03 16:09:00"
+  }
+}
