@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "calvin.tao",
+    "domain_name": "calvin",
+    "expire_date": "2026-03-18 14:07:06",
+    "created_at": "2025-03-18 14:07:06",
+    "wallet_address": "5Dd7DguRJv8cTxydi78TehMGDu7qXvkrpehGkyUMHvmUjxNf",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "calvin.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x20162e63a4c244947f28ff0fabe2f13850ad2f42042eeb23df447271b9c5a58d",
+    "previous_cid": null,
+    "wallet_address": "5Dd7DguRJv8cTxydi78TehMGDu7qXvkrpehGkyUMHvmUjxNf",
+    "order_id": "2438be50-23a5-442f-bac1-0f53878789e0",
+    "event_date": "2025-03-18 14:07:06",
+    "expire_date": "2026-03-18 14:07:06"
+  }
+}
