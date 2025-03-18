@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "polychain.tao",
+    "domain_name": "polychain",
+    "expire_date": "2026-03-03 16:25:43",
+    "created_at": "2025-03-03 16:25:43",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "polychain.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x4250dffcf2f2e6ca2e0cd267cc170790cb157cc2f93252eebdf068c7434809d6",
+    "previous_cid": null,
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "order_id": "16db5783-c016-46f4-9eb1-88cd1f955a89",
+    "event_date": "2025-03-03 16:25:43",
+    "expire_date": "2026-03-03 16:25:43"
+  }
+}
