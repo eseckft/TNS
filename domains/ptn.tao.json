@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "ptn.tao",
+    "domain_name": "ptn",
+    "expire_date": "2026-03-03 16:11:06",
+    "created_at": "2025-03-03 16:11:06",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "discount": true,
+    "discount_in_tao": 0.2,
+    "price_estimated_in_tao": 0.8,
+    "cost_in_tao": 1
+  },
+  "latest_event": {
+    "domain": "ptn.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x9a6da16881c239c9b7ffea17962b9321c7740afa1e7501f87f361948f1981dd4",
+    "previous_cid": null,
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "order_id": "17191d9e-6a15-4f14-a2c2-0433fdb12c6f",
+    "event_date": "2025-03-03 16:11:06",
+    "expire_date": "2026-03-03 16:11:06"
+  }
+}
