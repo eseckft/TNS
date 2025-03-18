@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "world.tao",
+    "domain_name": "world",
+    "expire_date": "2026-03-03 16:41:55",
+    "created_at": "2025-03-03 16:41:55",
+    "wallet_address": "5HBsjfQKtCEzoq5Y5N7Ty82NiUoP4zwL2jCFcB68NiHzyF98",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "world.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x1ebcc32818e581e610870abeaeaaa22722064f6e2de1954d61919bdb096f67de",
+    "previous_cid": null,
+    "wallet_address": "5HBsjfQKtCEzoq5Y5N7Ty82NiUoP4zwL2jCFcB68NiHzyF98",
+    "order_id": "1898e04a-7d7f-409d-82f7-f5feffb88b50",
+    "event_date": "2025-03-03 16:41:55",
+    "expire_date": "2026-03-03 16:41:55"
+  }
+}
