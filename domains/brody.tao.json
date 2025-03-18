@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "brody.tao",
+    "domain_name": "brody",
+    "expire_date": "2026-03-03 18:50:34",
+    "created_at": "2025-03-03 18:50:34",
+    "wallet_address": "5C5fi14Nhg1RwKermjAkrcuDk2JMfoapKDkcGacfhQCfUMGT",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "brody.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x6d6d49fa62ba1f0a3d1dea4dd8199130e41c1e66ae9567840612baada5fd1129",
+    "previous_cid": null,
+    "wallet_address": "5C5fi14Nhg1RwKermjAkrcuDk2JMfoapKDkcGacfhQCfUMGT",
+    "order_id": "0e9c8737-38b4-46b4-94ab-ad8051a6f313",
+    "event_date": "2025-03-03 18:50:34",
+    "expire_date": "2026-03-03 18:50:34"
+  }
+}
