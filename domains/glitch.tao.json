@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "glitch.tao",
+    "domain_name": "glitch",
+    "expire_date": "2026-03-03 16:27:55",
+    "created_at": "2025-03-03 16:27:55",
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "glitch.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x99176bcd412b4d9d9487dc6b76c294bac09c2f26a867e9e66acb0d3c9142c4f6",
+    "previous_cid": "QmNPnA9EFTrAtQ8Rf7utM6dR2bV4VGdVnXTdgkk84oRsu5",
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "order_id": "dab5188a-2324-405d-9272-ba350f7faa80",
+    "event_date": "2025-03-03 16:27:55",
+    "expire_date": "2026-03-03 16:27:55"
+  }
+}
