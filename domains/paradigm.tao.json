@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "paradigm.tao",
+    "domain_name": "paradigm",
+    "expire_date": "2026-03-03 17:46:52",
+    "created_at": "2025-03-03 17:46:52",
+    "wallet_address": "5EXVMY6iBSEYiZKJ3fbr2F1ZxmZWgzrZXcbDRXG8c4oSzp4T",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "paradigm.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xf4dbb0e20af82e6d1216c5911b97b538a63063abdfae9dbd36a638c126801b90",
+    "previous_cid": null,
+    "wallet_address": "5EXVMY6iBSEYiZKJ3fbr2F1ZxmZWgzrZXcbDRXG8c4oSzp4T",
+    "order_id": "b13a7ad7-873b-4be3-aea6-cb66ea80bd3f",
+    "event_date": "2025-03-03 17:46:52",
+    "expire_date": "2026-03-03 17:46:52"
+  }
+}
