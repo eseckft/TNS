@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "invest.tao",
+    "domain_name": "invest",
+    "expire_date": "2026-03-03 19:54:13",
+    "created_at": "2025-03-03 19:54:13",
+    "wallet_address": "5EUyqc2uVebqsT1vWQvB3hGHDYgpPfTZ6sHrozsAuxzMMsH4",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "invest.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x4826b60f7dad831965eb987c5f5ccbf9a2395785396d3b9a4480b5afcbebf677",
+    "previous_cid": null,
+    "wallet_address": "5EUyqc2uVebqsT1vWQvB3hGHDYgpPfTZ6sHrozsAuxzMMsH4",
+    "order_id": "20de0bed-c09c-4905-9d40-9876d0ae2e48",
+    "event_date": "2025-03-03 19:54:13",
+    "expire_date": "2026-03-03 19:54:13"
+  }
+}
