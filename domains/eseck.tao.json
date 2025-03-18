@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "eseck.tao",
+    "domain_name": "eseck",
+    "expire_date": "2026-03-03 12:54:23",
+    "created_at": "2025-03-03 12:54:23",
+    "wallet_address": "5HNVFGwwxKQUnkSBoQ9A1faBKe5f4myhPduLfXYUQjfUdQSi",
+    "discount": true,
+    "discount_in_tao": 0.15,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "eseck.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x8729cc66b273c49e95aa784d356b4f10a4431028172c822ac18b98f498af8297",
+    "previous_cid": null,
+    "wallet_address": "5HNVFGwwxKQUnkSBoQ9A1faBKe5f4myhPduLfXYUQjfUdQSi",
+    "order_id": "ad36e381-2b57-4385-8c03-7b78e605df00",
+    "event_date": "2025-03-03 12:54:23",
+    "expire_date": "2026-03-03 12:54:23"
+  }
+}
