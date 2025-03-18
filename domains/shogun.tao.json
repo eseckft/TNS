@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "shogun.tao",
+    "domain_name": "shogun",
+    "expire_date": "2026-03-04 03:20:28",
+    "created_at": "2025-03-04 03:20:28",
+    "wallet_address": "5CqHhgeEbpcz5RpEZG2zLgD4xfDaqDxYyfzx6J65S2iAJjRj",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "shogun.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x853b860690fc3a767024f38d642df8a8493b46e7df21edd1406a770c56cebba2",
+    "previous_cid": null,
+    "wallet_address": "5CqHhgeEbpcz5RpEZG2zLgD4xfDaqDxYyfzx6J65S2iAJjRj",
+    "order_id": "a58e475a-3b11-42d8-8195-da78bace67e2",
+    "event_date": "2025-03-04 03:20:28",
+    "expire_date": "2026-03-04 03:20:28"
+  }
+}
