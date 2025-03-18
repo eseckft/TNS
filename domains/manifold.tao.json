@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "manifold.tao",
+    "domain_name": "manifold",
+    "expire_date": "2026-03-03 16:11:29",
+    "created_at": "2025-03-03 16:11:29",
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "manifold.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x1d16bbdabe490b7e09194f639118e32e79627e3529281f5302ceca389ea85d70",
+    "previous_cid": null,
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "order_id": "c6949579-3dd6-427b-a829-965f968f9bb6",
+    "event_date": "2025-03-03 16:11:29",
+    "expire_date": "2026-03-03 16:11:29"
+  }
+}
