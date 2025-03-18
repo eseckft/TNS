@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "roundtable21.tao",
+    "domain_name": "roundtable21",
+    "expire_date": "2026-03-03 16:26:44",
+    "created_at": "2025-03-03 16:26:44",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "roundtable21.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x4bef5a1bf248ae458bfc68ffaf5da2224a9b8a4fc965e3070d049cfbf009e1b1",
+    "previous_cid": "QmSgEyRR2aA7Th7kTDSyNCmeXySjRjJeAzBAhP9wWE2Yra",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "order_id": "fd2d2d66-308e-46b1-9812-b7235f6f8f45",
+    "event_date": "2025-03-03 16:26:44",
+    "expire_date": "2026-03-03 16:26:44"
+  }
+}
