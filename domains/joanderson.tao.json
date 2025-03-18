@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "joanderson.tao",
+    "domain_name": "joanderson",
+    "expire_date": "2026-03-07 18:10:42",
+    "created_at": "2025-03-07 18:10:42",
+    "wallet_address": "5FRMYzzdmznt5ecKavsuVyYUMxwkMhym2SafRmDR75yCXfFa",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "joanderson.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x35c8ebedac37c6931ba30da764472ae68ed8467a290101da7f8ec2a87e46a70c",
+    "previous_cid": null,
+    "wallet_address": "5FRMYzzdmznt5ecKavsuVyYUMxwkMhym2SafRmDR75yCXfFa",
+    "order_id": "8dea6f16-221a-445c-85a9-118b35f133c6",
+    "event_date": "2025-03-07 18:10:42",
+    "expire_date": "2026-03-07 18:10:42"
+  }
+}
