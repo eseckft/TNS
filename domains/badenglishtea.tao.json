@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "badenglishtea.tao",
+    "domain_name": "badenglishtea",
+    "expire_date": "2026-03-03 20:01:05",
+    "created_at": "2025-03-03 20:01:05",
+    "wallet_address": "5EXVMY6iBSEYiZKJ3fbr2F1ZxmZWgzrZXcbDRXG8c4oSzp4T",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "badenglishtea.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xc3534feb1735120ea4b0cd6aac01ae1a4f7263f524c7f2dcdda1dd9878eeca07",
+    "previous_cid": null,
+    "wallet_address": "5EXVMY6iBSEYiZKJ3fbr2F1ZxmZWgzrZXcbDRXG8c4oSzp4T",
+    "order_id": "4a67fbe6-6804-4bb7-9af7-b31339d24f0a",
+    "event_date": "2025-03-03 20:01:05",
+    "expire_date": "2026-03-03 20:01:05"
+  }
+}
