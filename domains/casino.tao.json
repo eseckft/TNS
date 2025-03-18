@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "casino.tao",
+    "domain_name": "casino",
+    "expire_date": "2026-03-03 16:38:08",
+    "created_at": "2025-03-03 16:38:08",
+    "wallet_address": "5EtZERSkFVzDUnnCWL49FLPbc6ZsrA6bXt4QKmRAeX689JTk",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "casino.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x8807ac22587e3cf03e4585991e5c05887c98a3fc5fa984d2efe99dbd5ab79973",
+    "previous_cid": "QmXWQfGuDHQrhg4t68GAsQnmu2buGqNjHpUdof3UTZ8y4z",
+    "wallet_address": "5EtZERSkFVzDUnnCWL49FLPbc6ZsrA6bXt4QKmRAeX689JTk",
+    "order_id": "32004129-b50d-4ca3-9926-87bc3c626faa",
+    "event_date": "2025-03-03 16:38:08",
+    "expire_date": "2026-03-03 16:38:08"
+  }
+}
