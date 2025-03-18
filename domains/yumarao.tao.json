@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "yumarao.tao",
+    "domain_name": "yumarao",
+    "expire_date": "2026-03-03 17:48:48",
+    "created_at": "2025-03-03 17:48:48",
+    "wallet_address": "5HYaM56y49yc4WtEfASvPGN9K2AeWM5UQ74r2Y1xL88YzRGZ",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "yumarao.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x7a342dcf682a39beaec8c508c9be3c65f8a3ce358d445a79f6e219f25bd15bb5",
+    "previous_cid": null,
+    "wallet_address": "5HYaM56y49yc4WtEfASvPGN9K2AeWM5UQ74r2Y1xL88YzRGZ",
+    "order_id": "23af26ea-c95c-45da-b1bc-052ce8bde13a",
+    "event_date": "2025-03-03 17:48:48",
+    "expire_date": "2026-03-03 17:48:48"
+  }
+}
