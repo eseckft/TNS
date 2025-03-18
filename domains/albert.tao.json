@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "albert.tao",
+    "domain_name": "albert",
+    "expire_date": "2026-02-28 13:46:42",
+    "created_at": "2025-02-28 13:46:42",
+    "wallet_address": "5HNVFGwwxKQUnkSBoQ9A1faBKe5f4myhPduLfXYUQjfUdQSi",
+    "discount": true,
+    "discount_in_tao": 0.15,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "albert.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x1e7a86cc5b4da463ccec79782aee6b488b8557d7ac4620b6c9523c769c9c5044",
+    "previous_cid": null,
+    "wallet_address": "5HNVFGwwxKQUnkSBoQ9A1faBKe5f4myhPduLfXYUQjfUdQSi",
+    "order_id": "9e53784c-bbaf-4293-ab9e-24ace24bb206",
+    "event_date": "2025-02-28 13:46:42",
+    "expire_date": "2026-02-28 13:46:42"
+  }
+}
