@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "onlyfans.tao",
+    "domain_name": "onlyfans",
+    "expire_date": "2026-03-03 16:13:20",
+    "created_at": "2025-03-03 16:13:20",
+    "wallet_address": "5D9xhbvTBaVBaakkXYionNCzsxKgW5Sv3tSHDDDNRuK8TQi8",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "onlyfans.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xb34315b809b563c65751a11b3caa76e28044021841626103e5d6ce2646483149",
+    "previous_cid": null,
+    "wallet_address": "5D9xhbvTBaVBaakkXYionNCzsxKgW5Sv3tSHDDDNRuK8TQi8",
+    "order_id": "92292e3b-0089-4ea2-b419-1c146026b36e",
+    "event_date": "2025-03-03 16:13:20",
+    "expire_date": "2026-03-03 16:13:20"
+  }
+}
