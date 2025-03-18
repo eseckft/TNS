@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "arrash.tao",
+    "domain_name": "arrash",
+    "expire_date": "2026-03-03 18:49:43",
+    "created_at": "2025-03-03 18:49:43",
+    "wallet_address": "5HYaM56y49yc4WtEfASvPGN9K2AeWM5UQ74r2Y1xL88YzRGZ",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "arrash.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x024c83e5da878665c0d4337b3fd8b7d7e480ffe53b83de1fd696f3f5eeaebad2",
+    "previous_cid": "QmbVRTF68W6Y8nQ9VrUpepP6BPZ9ALTkFUt4fHCJ19uLvu",
+    "wallet_address": "5HYaM56y49yc4WtEfASvPGN9K2AeWM5UQ74r2Y1xL88YzRGZ",
+    "order_id": "3ccc684b-39f8-4b6f-9869-2a13e8bd5c69",
+    "event_date": "2025-03-03 18:49:43",
+    "expire_date": "2026-03-03 18:49:43"
+  }
+}
