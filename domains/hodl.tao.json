@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "hodl.tao",
+    "domain_name": "hodl",
+    "expire_date": "2026-03-03 16:20:38",
+    "created_at": "2025-03-03 16:20:38",
+    "wallet_address": "5EvUemd1Xa48LdTUQcDvh7knfpJBTUJYN6fj9mCVrzAxL5jj",
+    "discount": true,
+    "discount_in_tao": 0.3,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "hodl.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x690e7a88ec4e90fb19a3ac52b557932adc1cf759e83ab28897b63eaf49513601",
+    "previous_cid": null,
+    "wallet_address": "5EvUemd1Xa48LdTUQcDvh7knfpJBTUJYN6fj9mCVrzAxL5jj",
+    "order_id": "f1f9baae-4283-4577-adbf-8a4955294d65",
+    "event_date": "2025-03-03 16:20:38",
+    "expire_date": "2026-03-03 16:20:38"
+  }
+}
