@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "omega.tao",
+    "domain_name": "omega",
+    "expire_date": "2026-03-03 16:42:08",
+    "created_at": "2025-03-03 16:42:08",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "omega.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x81475df8383ed7ae005f85af77b4f92edc311cc7acc187fa55f23801f69db947",
+    "previous_cid": "QmS2zzEdUQJJ8eQzDhEc2YaHXsy4xh8eDTLGMqKedKuHR6",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "order_id": "86fbc4f1-1204-48f6-97c5-6941e3da8602",
+    "event_date": "2025-03-03 16:42:08",
+    "expire_date": "2026-03-03 16:42:08"
+  }
+}
