@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "taobot.tao",
+    "domain_name": "taobot",
+    "expire_date": "2026-03-03 21:11:02",
+    "created_at": "2025-03-03 21:11:02",
+    "wallet_address": "5EZWd6p1P61hHSm3zevi54pMPd83oE9YYoGLHby2NzNfHwRv",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "taobot.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xd5d311ef42a45c4c3d1fa6ba8bddfa21afafe5aa4d9e161dec6ebc46919add1b",
+    "previous_cid": null,
+    "wallet_address": "5EZWd6p1P61hHSm3zevi54pMPd83oE9YYoGLHby2NzNfHwRv",
+    "order_id": "9dcbd18f-4dce-4512-8899-00f72c79fa98",
+    "event_date": "2025-03-03 21:11:02",
+    "expire_date": "2026-03-03 21:11:02"
+  }
+}
