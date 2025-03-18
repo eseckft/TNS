@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "icloud.tao",
+    "domain_name": "icloud",
+    "expire_date": "2026-03-04 22:08:02",
+    "created_at": "2025-03-04 22:08:02",
+    "wallet_address": "5CAqxbLV1Uw3DRCTy8fxXbxEpTZzLsBWi12gZyXFntUBot8g",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "icloud.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x503646d5c59cdb0271bde2b03b09a9442f0c9a0f9e865ad645fa0e790f284c10",
+    "previous_cid": null,
+    "wallet_address": "5CAqxbLV1Uw3DRCTy8fxXbxEpTZzLsBWi12gZyXFntUBot8g",
+    "order_id": "e957836b-5996-4c27-9341-eccf954d0d4e",
+    "event_date": "2025-03-04 22:08:02",
+    "expire_date": "2026-03-04 22:08:02"
+  }
+}
