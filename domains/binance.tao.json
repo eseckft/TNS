@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "binance.tao",
+    "domain_name": "binance",
+    "expire_date": "2026-03-03 16:07:20",
+    "created_at": "2025-03-03 16:07:20",
+    "wallet_address": "5D9xhbvTBaVBaakkXYionNCzsxKgW5Sv3tSHDDDNRuK8TQi8",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "binance.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xdad863d8c5e915e4e3eab97087517d5f5754f2bac6fd82081c8a8ae44269ce07",
+    "previous_cid": null,
+    "wallet_address": "5D9xhbvTBaVBaakkXYionNCzsxKgW5Sv3tSHDDDNRuK8TQi8",
+    "order_id": "19e8858c-5cb4-4f3f-a8ff-91feaf43239b",
+    "event_date": "2025-03-03 16:07:20",
+    "expire_date": "2026-03-03 16:07:20"
+  }
+}
