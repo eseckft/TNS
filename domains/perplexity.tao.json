@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "perplexity.tao",
+    "domain_name": "perplexity",
+    "expire_date": "2026-03-03 22:57:54",
+    "created_at": "2025-03-03 22:57:54",
+    "wallet_address": "5DhZnZBYgYMjCawNkBjoT2EUrSVChvbT6eeg7SvdmPZqfESD",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "perplexity.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xeb05a357f69be5d0d604f11c714731170b9375fa42d8a7715e1c81551e6009d5",
+    "previous_cid": null,
+    "wallet_address": "5DhZnZBYgYMjCawNkBjoT2EUrSVChvbT6eeg7SvdmPZqfESD",
+    "order_id": "d8bb05c0-370c-4f38-88a2-d3b1357ea177",
+    "event_date": "2025-03-03 22:57:54",
+    "expire_date": "2026-03-03 22:57:54"
+  }
+}
