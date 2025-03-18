@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "delegate.tao",
+    "domain_name": "delegate",
+    "expire_date": "2026-03-03 23:15:13",
+    "created_at": "2025-03-03 23:15:13",
+    "wallet_address": "5DhZnZBYgYMjCawNkBjoT2EUrSVChvbT6eeg7SvdmPZqfESD",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "delegate.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x7e92d260cc78c8579c120b33579b7e9fa8db64a6ef17b9f35962208cca5a3232",
+    "previous_cid": null,
+    "wallet_address": "5DhZnZBYgYMjCawNkBjoT2EUrSVChvbT6eeg7SvdmPZqfESD",
+    "order_id": "d906b2d1-2bc7-4aaf-8673-0eee209c429b",
+    "event_date": "2025-03-03 23:15:13",
+    "expire_date": "2026-03-03 23:15:13"
+  }
+}
