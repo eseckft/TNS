@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "sami.tao",
+    "domain_name": "sami",
+    "expire_date": "2026-03-03 20:08:54",
+    "created_at": "2025-03-03 20:08:54",
+    "wallet_address": "5DHimNSkM9cbhMw3MLQBubE31GCqATbrrH6FCGbtAEDr9W3G",
+    "discount": true,
+    "discount_in_tao": 0.1,
+    "price_estimated_in_tao": 0.4,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "sami.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x916e105b240ceb4505ac28bde491b67672d8ea6205a2b88c5c00ba767b88dd10",
+    "previous_cid": null,
+    "wallet_address": "5DHimNSkM9cbhMw3MLQBubE31GCqATbrrH6FCGbtAEDr9W3G",
+    "order_id": "f4350a14-714c-455b-8196-0dc55fd6efd8",
+    "event_date": "2025-03-03 20:08:54",
+    "expire_date": "2026-03-03 20:08:54"
+  }
+}
