@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "eattheworld.tao",
+    "domain_name": "eattheworld",
+    "expire_date": "2026-03-03 18:58:22",
+    "created_at": "2025-03-03 18:58:22",
+    "wallet_address": "5GNBNSSAi3p8gHpxq5XnfYzkJ2pcFJB58vC37orqGDvGuf1L",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "eattheworld.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x49b4e6be913ab0942709cd890e75525442035271d142c5deeb2cea3d09f2e1c3",
+    "previous_cid": "Qmbrtyt8C8z4WZSkJ7int7DWeyo8r32xUrvMiro1Y8dW9f",
+    "wallet_address": "5GNBNSSAi3p8gHpxq5XnfYzkJ2pcFJB58vC37orqGDvGuf1L",
+    "order_id": "2e9de0c6-b403-43dd-aaa6-5146f551ed1e",
+    "event_date": "2025-03-03 18:58:22",
+    "expire_date": "2026-03-03 18:58:22"
+  }
+}
