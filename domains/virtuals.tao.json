@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "virtuals.tao",
+    "domain_name": "virtuals",
+    "expire_date": "2026-03-10 19:29:40",
+    "created_at": "2025-03-10 19:29:40",
+    "wallet_address": "5FU5PqDSWUuA97sKK3Nbahsj89ejCEcVMuejgDQjgdeUj5uK",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "virtuals.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x8095d4c41974bff78077159b10dc0549caed0b1020d65b078d03a686c6c5d5a5",
+    "previous_cid": null,
+    "wallet_address": "5FU5PqDSWUuA97sKK3Nbahsj89ejCEcVMuejgDQjgdeUj5uK",
+    "order_id": "0f6df97f-8492-4923-903c-34098f2afe01",
+    "event_date": "2025-03-10 19:29:40",
+    "expire_date": "2026-03-10 19:29:40"
+  }
+}
