@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "openai.tao",
+    "domain_name": "openai",
+    "expire_date": "2026-03-03 17:37:31",
+    "created_at": "2025-03-03 17:37:31",
+    "wallet_address": "5CtqFTahn2CTTkTBnScbr8KkYbvCaYcZTDbaecoJp8wVw17z",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "openai.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x9d4639f370c1362cb5aed45433c5fd3b21acb0ab2e027d050b6369174809efd9",
+    "previous_cid": null,
+    "wallet_address": "5CtqFTahn2CTTkTBnScbr8KkYbvCaYcZTDbaecoJp8wVw17z",
+    "order_id": "001f8622-c03d-4149-9b2d-74fd80e76952",
+    "event_date": "2025-03-03 17:37:31",
+    "expire_date": "2026-03-03 17:37:31"
+  }
+}
