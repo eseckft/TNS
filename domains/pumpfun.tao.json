@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "pumpfun.tao",
+    "domain_name": "pumpfun",
+    "expire_date": "2026-03-10 23:59:54",
+    "created_at": "2025-03-10 23:59:54",
+    "wallet_address": "5FU5PqDSWUuA97sKK3Nbahsj89ejCEcVMuejgDQjgdeUj5uK",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "pumpfun.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xc93b91843f705a11578260c1d2c5443271add0350d651b1ec50e2d9d9ec2a238",
+    "previous_cid": null,
+    "wallet_address": "5FU5PqDSWUuA97sKK3Nbahsj89ejCEcVMuejgDQjgdeUj5uK",
+    "order_id": "da6a436d-587a-4b16-a7f9-287a765b666e",
+    "event_date": "2025-03-10 23:59:54",
+    "expire_date": "2026-03-10 23:59:54"
+  }
+}
