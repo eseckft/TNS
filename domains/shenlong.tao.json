@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "shenlong.tao",
+    "domain_name": "shenlong",
+    "expire_date": "2026-03-11 21:30:26",
+    "created_at": "2025-03-11 21:30:26",
+    "wallet_address": "5Dy5s9PCY9EoAaxCFhwEVwjJqnqm6AqAvaZQvX4FhdXysnp1",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "shenlong.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x2fe08e3e03cf3ef9be2e498d2c26e572917edb9f41979c3592b9ed32d72cc850",
+    "previous_cid": null,
+    "wallet_address": "5Dy5s9PCY9EoAaxCFhwEVwjJqnqm6AqAvaZQvX4FhdXysnp1",
+    "order_id": "f36ca50e-86cc-4229-a0d2-1774a8086c69",
+    "event_date": "2025-03-11 21:30:26",
+    "expire_date": "2026-03-11 21:30:26"
+  }
+}
