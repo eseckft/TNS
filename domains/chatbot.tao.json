@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "chatbot.tao",
+    "domain_name": "chatbot",
+    "expire_date": "2026-03-03 22:52:16",
+    "created_at": "2025-03-03 22:52:16",
+    "wallet_address": "5DhZnZBYgYMjCawNkBjoT2EUrSVChvbT6eeg7SvdmPZqfESD",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "chatbot.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x37999bdd0cc1a0be0c8de112d7823be75fb996c9dc6071e9c2653df85256751b",
+    "previous_cid": null,
+    "wallet_address": "5DhZnZBYgYMjCawNkBjoT2EUrSVChvbT6eeg7SvdmPZqfESD",
+    "order_id": "8cd73c3e-a0b5-4196-96a1-f7722710d22d",
+    "event_date": "2025-03-03 22:52:16",
+    "expire_date": "2026-03-03 22:52:16"
+  }
+}
