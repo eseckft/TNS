@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "pay.tao",
+    "domain_name": "pay",
+    "expire_date": "2026-03-03 18:13:17",
+    "created_at": "2025-03-03 18:13:17",
+    "wallet_address": "5GmiRhXvD5YM9eQUdj4pJkDRZJNi7h6YzYfoeusDx4eYUiii",
+    "discount": true,
+    "discount_in_tao": 0.2,
+    "price_estimated_in_tao": 0.8,
+    "cost_in_tao": 1
+  },
+  "latest_event": {
+    "domain": "pay.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x65ba94d082f7063ea3142e4d7eed8aff2f31a11e87befd30f4d5dec9ee5e1bc0",
+    "previous_cid": null,
+    "wallet_address": "5GmiRhXvD5YM9eQUdj4pJkDRZJNi7h6YzYfoeusDx4eYUiii",
+    "order_id": "14d45c59-1735-4de0-a3d1-5cac1f3d005e",
+    "event_date": "2025-03-03 18:13:17",
+    "expire_date": "2026-03-03 18:13:17"
+  }
+}
