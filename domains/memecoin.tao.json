@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "memecoin.tao",
+    "domain_name": "memecoin",
+    "expire_date": "2026-03-15 22:52:52",
+    "created_at": "2025-03-15 22:52:52",
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "memecoin.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x22f7c6b4a035b1cfbc6cff99c7b01a71ab9f54cccf018da1fe633ae6ced577fc",
+    "previous_cid": null,
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "order_id": "d6767256-7a6e-4127-9b27-f261408eba3b",
+    "event_date": "2025-03-15 22:52:52",
+    "expire_date": "2026-03-15 22:52:52"
+  }
+}
