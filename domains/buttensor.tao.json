@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "buttensor.tao",
+    "domain_name": "buttensor",
+    "expire_date": "2026-03-04 08:42:01",
+    "created_at": "2025-03-04 08:42:01",
+    "wallet_address": "5G6xwoAMgRVRxsC8rWmzR7fVyw7bqJMMdtUCAqSyJjqmWfX3",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "buttensor.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x0fa8fb455aca9d3eff3583f4f8431c18b4aabdebcf355f8114b9ca3ec5fc6472",
+    "previous_cid": null,
+    "wallet_address": "5G6xwoAMgRVRxsC8rWmzR7fVyw7bqJMMdtUCAqSyJjqmWfX3",
+    "order_id": "38d90c7c-521f-4b9a-a3f3-91411e0f479e",
+    "event_date": "2025-03-04 08:42:01",
+    "expire_date": "2026-03-04 08:42:01"
+  }
+}
