@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "finance.tao",
+    "domain_name": "finance",
+    "expire_date": "2026-03-03 18:41:34",
+    "created_at": "2025-03-03 18:41:34",
+    "wallet_address": "5EUyqc2uVebqsT1vWQvB3hGHDYgpPfTZ6sHrozsAuxzMMsH4",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "finance.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x32da07ea75c780c016efaf615ebb500de19aa7f4decc4d1acb83181caab9a0c0",
+    "previous_cid": null,
+    "wallet_address": "5EUyqc2uVebqsT1vWQvB3hGHDYgpPfTZ6sHrozsAuxzMMsH4",
+    "order_id": "da6a5cb3-a75a-4cdc-82cf-9390b7abc82b",
+    "event_date": "2025-03-03 18:41:34",
+    "expire_date": "2026-03-03 18:41:34"
+  }
+}
