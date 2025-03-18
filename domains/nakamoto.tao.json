@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "nakamoto.tao",
+    "domain_name": "nakamoto",
+    "expire_date": "2026-03-06 16:01:31",
+    "created_at": "2025-03-06 16:01:31",
+    "wallet_address": "5F9B2kUbSoG9MFoPwjaJtgSZfEnQcePGt7TeYHnCrd4YV85Z",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "nakamoto.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xb1356d3d86995b5a5d2c8d65b2627cec8e19f2f2e67811e166388cfed1783773",
+    "previous_cid": null,
+    "wallet_address": "5F9B2kUbSoG9MFoPwjaJtgSZfEnQcePGt7TeYHnCrd4YV85Z",
+    "order_id": "d6be762a-5f5f-4a26-8efc-e6c5c20e4549",
+    "event_date": "2025-03-06 16:01:31",
+    "expire_date": "2026-03-06 16:01:31"
+  }
+}
