@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "finetuning.tao",
+    "domain_name": "finetuning",
+    "expire_date": "2026-03-03 16:42:46",
+    "created_at": "2025-03-03 16:42:46",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "finetuning.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x693ed2777b18b2de16395bdd0454c7127936cdee32273235bbfe4f903197b0be",
+    "previous_cid": "QmXeYE3WdyDM9DRx3HT1u5i7AeZ8xMCbQzUjBx11aGEtx9",
+    "wallet_address": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+    "order_id": "aee837ed-863e-4ead-94ef-857f775fe6c1",
+    "event_date": "2025-03-03 16:42:46",
+    "expire_date": "2026-03-03 16:42:46"
+  }
+}
