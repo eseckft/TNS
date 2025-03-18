@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "allin.tao",
+    "domain_name": "allin",
+    "expire_date": "2026-03-03 21:23:00",
+    "created_at": "2025-03-03 21:23:00",
+    "wallet_address": "5EZWd6p1P61hHSm3zevi54pMPd83oE9YYoGLHby2NzNfHwRv",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "allin.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x2eaec95b680056ccf0992b2a4b68f63dd8fc6c27697536a55d3d370ab0619e0f",
+    "previous_cid": null,
+    "wallet_address": "5EZWd6p1P61hHSm3zevi54pMPd83oE9YYoGLHby2NzNfHwRv",
+    "order_id": "5d2f4d4d-1bf8-4b83-a84a-8d5eb55fadfd",
+    "event_date": "2025-03-03 21:23:00",
+    "expire_date": "2026-03-03 21:23:00"
+  }
+}
