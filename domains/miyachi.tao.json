@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "miyachi.tao",
+    "domain_name": "miyachi",
+    "expire_date": "2026-03-03 18:39:08",
+    "created_at": "2025-03-03 18:39:08",
+    "wallet_address": "5DtVrky2aM8CJNpA85YDBHs4C3fzP2p9cAU7xycqY7tXCe2a",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "miyachi.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x82e73108daf47ae5c9f3b86f2ae49b6a2b5c024333cb216319e62640dbdcac0c",
+    "previous_cid": null,
+    "wallet_address": "5DtVrky2aM8CJNpA85YDBHs4C3fzP2p9cAU7xycqY7tXCe2a",
+    "order_id": "81f61776-cc6d-4c7d-a4f3-2f4769c3aaf0",
+    "event_date": "2025-03-03 18:39:08",
+    "expire_date": "2026-03-03 18:39:08"
+  }
+}
