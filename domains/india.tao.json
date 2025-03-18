@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "india.tao",
+    "domain_name": "india",
+    "expire_date": "2026-03-05 11:42:48",
+    "created_at": "2025-03-05 11:42:48",
+    "wallet_address": "5GNFYAbg687arQx478i5C5JY5fUJ8NbxbeC4SV9wMEtZs5ie",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "india.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x0b6d1c703daca20f7e2322ce2252d14f8e4cb158d153db0edd4becc21ec79546",
+    "previous_cid": null,
+    "wallet_address": "5GNFYAbg687arQx478i5C5JY5fUJ8NbxbeC4SV9wMEtZs5ie",
+    "order_id": "f3824149-33aa-4af8-b24a-d8e5539eb503",
+    "event_date": "2025-03-05 11:42:48",
+    "expire_date": "2026-03-05 11:42:48"
+  }
+}
