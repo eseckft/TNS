@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "kenjon.tao",
+    "domain_name": "kenjon",
+    "expire_date": "2026-03-03 18:36:28",
+    "created_at": "2025-03-03 18:36:28",
+    "wallet_address": "5DtVrky2aM8CJNpA85YDBHs4C3fzP2p9cAU7xycqY7tXCe2a",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "kenjon.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x090119966063e6fb36fb829ceadaa474064f29b5b891f3a8cb9bc4bedd27e7dd",
+    "previous_cid": null,
+    "wallet_address": "5DtVrky2aM8CJNpA85YDBHs4C3fzP2p9cAU7xycqY7tXCe2a",
+    "order_id": "441a4220-99f9-44aa-8128-2122530017af",
+    "event_date": "2025-03-03 18:36:28",
+    "expire_date": "2026-03-03 18:36:28"
+  }
+}
