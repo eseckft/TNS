@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "joseph.tao",
+    "domain_name": "joseph",
+    "expire_date": "2026-03-03 18:47:06",
+    "created_at": "2025-03-03 18:47:06",
+    "wallet_address": "5EUyqc2uVebqsT1vWQvB3hGHDYgpPfTZ6sHrozsAuxzMMsH4",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "joseph.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x2819af16898f5223ff43d755ca840ba1728f2b80a1067edc97634887387ed919",
+    "previous_cid": null,
+    "wallet_address": "5EUyqc2uVebqsT1vWQvB3hGHDYgpPfTZ6sHrozsAuxzMMsH4",
+    "order_id": "b293db7f-7ab9-457f-8e51-ba4fb859bad8",
+    "event_date": "2025-03-03 18:47:06",
+    "expire_date": "2026-03-03 18:47:06"
+  }
+}
