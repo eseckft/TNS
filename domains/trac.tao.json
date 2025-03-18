@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "trac.tao",
+    "domain_name": "trac",
+    "expire_date": "2026-03-03 22:47:22",
+    "created_at": "2025-03-03 22:47:22",
+    "wallet_address": "5Fq1TboUXWGNoZYq1LP2xnT9128SFkYpZaYxkua9gNUvN3qG",
+    "discount": true,
+    "discount_in_tao": 0.1,
+    "price_estimated_in_tao": 0.4,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "trac.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xcfba8dc152c21081e9c7855db3b4f5629b7b8ed50a7fbcabb1a700ff1d2d7e53",
+    "previous_cid": null,
+    "wallet_address": "5Fq1TboUXWGNoZYq1LP2xnT9128SFkYpZaYxkua9gNUvN3qG",
+    "order_id": "03b0b4a1-2ba7-4ce1-a7e2-d2ffb8d9d99e",
+    "event_date": "2025-03-03 22:47:22",
+    "expire_date": "2026-03-03 22:47:22"
+  }
+}
