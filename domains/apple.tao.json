@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "apple.tao",
+    "domain_name": "apple",
+    "expire_date": "2026-03-03 17:17:40",
+    "created_at": "2025-03-03 17:17:40",
+    "wallet_address": "5EXVMY6iBSEYiZKJ3fbr2F1ZxmZWgzrZXcbDRXG8c4oSzp4T",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "apple.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xe469ebdb7040126c677bcf063ec92b86e4595f7ac1580988eb5dfdbda6896c13",
+    "previous_cid": null,
+    "wallet_address": "5EXVMY6iBSEYiZKJ3fbr2F1ZxmZWgzrZXcbDRXG8c4oSzp4T",
+    "order_id": "bf06c130-4289-4141-856a-552f549eed26",
+    "event_date": "2025-03-03 17:17:40",
+    "expire_date": "2026-03-03 17:17:40"
+  }
+}
