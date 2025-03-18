@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "tatsu.tao",
+    "domain_name": "tatsu",
+    "expire_date": "2026-03-03 16:15:42",
+    "created_at": "2025-03-03 16:15:42",
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "tatsu.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x79da080c7c9866013fc4a6057db580e0e52f373f4bd93256f9c0b681f8b0c0ae",
+    "previous_cid": null,
+    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "order_id": "951c7349-1e12-4859-a44c-b7b6df16cbe7",
+    "event_date": "2025-03-03 16:15:42",
+    "expire_date": "2026-03-03 16:15:42"
+  }
+}
