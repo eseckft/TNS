@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "mind.tao",
+    "domain_name": "mind",
+    "expire_date": "2026-03-03 18:38:19",
+    "created_at": "2025-03-03 18:38:19",
+    "wallet_address": "5DtVrky2aM8CJNpA85YDBHs4C3fzP2p9cAU7xycqY7tXCe2a",
+    "discount": true,
+    "discount_in_tao": 0.1,
+    "price_estimated_in_tao": 0.4,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "mind.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x872987af330897b67b17ffb9c5860cfe087741ac27fb1141a1f945efd6bf047a",
+    "previous_cid": null,
+    "wallet_address": "5DtVrky2aM8CJNpA85YDBHs4C3fzP2p9cAU7xycqY7tXCe2a",
+    "order_id": "f280c03c-138a-4e58-b81e-9cdb8a6a4c97",
+    "event_date": "2025-03-03 18:38:19",
+    "expire_date": "2026-03-03 18:38:19"
+  }
+}
