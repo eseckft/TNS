@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "brooklyn.tao",
+    "domain_name": "brooklyn",
+    "expire_date": "2026-03-03 22:55:33",
+    "created_at": "2025-03-03 22:55:33",
+    "wallet_address": "5Fq1TboUXWGNoZYq1LP2xnT9128SFkYpZaYxkua9gNUvN3qG",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "brooklyn.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x0893745b94dddf3ffe361e2365776b4606502f5b903c4fa854ba745f65da217d",
+    "previous_cid": null,
+    "wallet_address": "5Fq1TboUXWGNoZYq1LP2xnT9128SFkYpZaYxkua9gNUvN3qG",
+    "order_id": "1559191d-42a1-4cb4-8c05-f52ae42e1d8b",
+    "event_date": "2025-03-03 22:55:33",
+    "expire_date": "2026-03-03 22:55:33"
+  }
+}
