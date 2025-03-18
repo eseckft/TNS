@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "farcaster.tao",
+    "domain_name": "farcaster",
+    "expire_date": "2026-03-10 19:38:57",
+    "created_at": "2025-03-10 19:38:57",
+    "wallet_address": "5FU5PqDSWUuA97sKK3Nbahsj89ejCEcVMuejgDQjgdeUj5uK",
+    "discount": true,
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
+  },
+  "latest_event": {
+    "domain": "farcaster.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xe63d2bced044e900076c436f9eb9892c09ba82d1e3739306b5e3364da2b0f5ee",
+    "previous_cid": null,
+    "wallet_address": "5FU5PqDSWUuA97sKK3Nbahsj89ejCEcVMuejgDQjgdeUj5uK",
+    "order_id": "976b8525-7667-4928-8343-cc5aacf823de",
+    "event_date": "2025-03-10 19:38:57",
+    "expire_date": "2026-03-10 19:38:57"
+  }
+}
