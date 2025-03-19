@@ -2,22 +2,22 @@
   "domain_info": {
     "domain": "barrysilbert.tao",
     "domain_name": "barrysilbert",
-    "expire_date": "2026-03-03 16:44:57",
-    "created_at": "2025-03-03 16:44:57",
-    "wallet_address": "5D74fBemGJafooRRnaeDUteqnAhmSy3oBqET3EM8wsoS9wLd",
+    "expire_date": "2026-03-19 19:46:28",
+    "created_at": "2025-03-19 19:46:28",
+    "wallet_address": "5GnGZrESHxj9qcscYmuyL29UYR8dLmet1FcDrE9eYoEdFgcd",
     "discount": true,
-    "discount_in_tao": 0.05,
-    "price_estimated_in_tao": 0.2,
-    "cost_in_tao": 0.25
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
   },
   "latest_event": {
     "domain": "barrysilbert.tao",
     "event_type": "buy_domain",
-    "tx_hash": "0x2968a48d6927dfcd2bf93aef58d9af3893a26b46d0421c3f96eb3b0036478046",
+    "tx_hash": "0x52e905ab657ed476a11be34b2dd957c82920cc0180110a5a87bbd1dcaaa8e6c0",
     "previous_cid": null,
-    "wallet_address": "5D74fBemGJafooRRnaeDUteqnAhmSy3oBqET3EM8wsoS9wLd",
-    "order_id": "d58c0fae-c5b8-48d2-9d2b-b77ccf25162b",
-    "event_date": "2025-03-03 16:44:57",
-    "expire_date": "2026-03-03 16:44:57"
+    "wallet_address": "5GnGZrESHxj9qcscYmuyL29UYR8dLmet1FcDrE9eYoEdFgcd",
+    "order_id": "8ff1788d-c9be-47ae-bce4-a679d46b9a71",
+    "event_date": "2025-03-19 19:46:28",
+    "expire_date": "2026-03-19 19:46:28"
   }
 }
