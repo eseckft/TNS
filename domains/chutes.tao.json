@@ -2,22 +2,22 @@
   "domain_info": {
     "domain": "chutes.tao",
     "domain_name": "chutes",
-    "expire_date": "2026-03-03 16:10:24",
-    "created_at": "2025-03-03 16:10:24",
-    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
+    "expire_date": "2026-03-19 19:27:41",
+    "created_at": "2025-03-19 19:27:41",
+    "wallet_address": "5GnGZrESHxj9qcscYmuyL29UYR8dLmet1FcDrE9eYoEdFgcd",
     "discount": true,
-    "discount_in_tao": 0.05,
-    "price_estimated_in_tao": 0.2,
-    "cost_in_tao": 0.25
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
   },
   "latest_event": {
     "domain": "chutes.tao",
     "event_type": "buy_domain",
-    "tx_hash": "0xa4129fe9f11c2e5c559797b0bbda4fcd3f1b4c440f5462e2f56b2189b1374b0e",
+    "tx_hash": "0x9f1304ab0f0608fd13c23d1355d57ccb006386f0d6eb137c32d7190618a7114e",
     "previous_cid": null,
-    "wallet_address": "5HTcrzrpEjtvzQcHqu7F7vgZnRHTcMXbXY5vhvDHstqJ2ekm",
-    "order_id": "1ba3de89-b808-4d91-8468-27c26bd8be23",
-    "event_date": "2025-03-03 16:10:24",
-    "expire_date": "2026-03-03 16:10:24"
+    "wallet_address": "5GnGZrESHxj9qcscYmuyL29UYR8dLmet1FcDrE9eYoEdFgcd",
+    "order_id": "1ee399f9-a570-4619-a94f-d52da73ce3c0",
+    "event_date": "2025-03-19 19:27:41",
+    "expire_date": "2026-03-19 19:27:41"
   }
 }
