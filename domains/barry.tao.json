@@ -2,22 +2,22 @@
   "domain_info": {
     "domain": "barry.tao",
     "domain_name": "barry",
-    "expire_date": "2026-03-19 19:48:26",
-    "created_at": "2025-03-19 19:48:26",
-    "wallet_address": "5GnGZrESHxj9qcscYmuyL29UYR8dLmet1FcDrE9eYoEdFgcd",
+    "expire_date": "2026-03-03 17:44:55",
+    "created_at": "2025-03-03 17:44:55",
+    "wallet_address": "5EUyqc2uVebqsT1vWQvB3hGHDYgpPfTZ6sHrozsAuxzMMsH4",
     "discount": true,
-    "discount_in_tao": 0,
-    "price_estimated_in_tao": 0.1,
-    "cost_in_tao": 0.1
+    "discount_in_tao": 0.05,
+    "price_estimated_in_tao": 0.2,
+    "cost_in_tao": 0.25
   },
   "latest_event": {
     "domain": "barry.tao",
     "event_type": "buy_domain",
-    "tx_hash": "0x6c2b260e53d8db873ab4b07d1f0d165eff97caecb3d234869603d2a03243e237",
+    "tx_hash": "0x3a9c393de536d4cc55c783ff9c8cc910f084d9951efb8ee64052c097e04786e1",
     "previous_cid": null,
-    "wallet_address": "5GnGZrESHxj9qcscYmuyL29UYR8dLmet1FcDrE9eYoEdFgcd",
-    "order_id": "bb5e0205-b126-4437-b60f-2232df76cfbe",
-    "event_date": "2025-03-19 19:48:26",
-    "expire_date": "2026-03-19 19:48:26"
+    "wallet_address": "5EUyqc2uVebqsT1vWQvB3hGHDYgpPfTZ6sHrozsAuxzMMsH4",
+    "order_id": "8b630059-f94d-4be1-8db7-834bffbab9d9",
+    "event_date": "2025-03-03 17:44:55",
+    "expire_date": "2026-03-03 17:44:55"
   }
 }
