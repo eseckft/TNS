@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "closeai.tao",
+    "domain_name": "closeai",
+    "expire_date": "2026-03-22 16:10:19",
+    "created_at": "2025-03-22 16:10:19",
+    "wallet_address": "5CtqFTahn2CTTkTBnScbr8KkYbvCaYcZTDbaecoJp8wVw17z",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "closeai.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xcaccdc431d3b41af66d4d2d11970818bd3e8d55153d6e9f3fa35b9f1f94ff958",
+    "previous_cid": null,
+    "wallet_address": "5CtqFTahn2CTTkTBnScbr8KkYbvCaYcZTDbaecoJp8wVw17z",
+    "order_id": "e84c9531-9171-405e-acbe-5797b3a7d40c",
+    "event_date": "2025-03-22 16:10:19",
+    "expire_date": "2026-03-22 16:10:19"
+  }
+}
