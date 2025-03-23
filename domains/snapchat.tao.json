@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "snapchat.tao",
+    "domain_name": "snapchat",
+    "expire_date": "2026-03-22 23:24:36",
+    "created_at": "2025-03-22 23:24:36",
+    "wallet_address": "5Dpzj1cQoksLDiMpH5soDQUjGacKcWhJbjNbHJJc2KnrpV76",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "snapchat.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x5d90ab3c88dbbaa4d928de187ad28116e21bc13eff2916f5c08fa67f9dae7ccd",
+    "previous_cid": null,
+    "wallet_address": "5Dpzj1cQoksLDiMpH5soDQUjGacKcWhJbjNbHJJc2KnrpV76",
+    "order_id": "e4cc5674-1da2-4988-9d54-a5a5cacb8848",
+    "event_date": "2025-03-22 23:24:36",
+    "expire_date": "2026-03-22 23:24:36"
+  }
+}
