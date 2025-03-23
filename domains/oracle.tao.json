@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "oracle.tao",
+    "domain_name": "oracle",
+    "expire_date": "2026-03-22 23:00:14",
+    "created_at": "2025-03-22 23:00:14",
+    "wallet_address": "5Dpzj1cQoksLDiMpH5soDQUjGacKcWhJbjNbHJJc2KnrpV76",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "oracle.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x00b4560d306e399be3ef484d65d0c02f97ec88ac6a8ad0afd51ae3a5671003f4",
+    "previous_cid": null,
+    "wallet_address": "5Dpzj1cQoksLDiMpH5soDQUjGacKcWhJbjNbHJJc2KnrpV76",
+    "order_id": "7eb9a52e-402a-4687-8c56-d52ffa9f77c3",
+    "event_date": "2025-03-22 23:00:14",
+    "expire_date": "2026-03-22 23:00:14"
+  }
+}
