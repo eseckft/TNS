@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "thomas.tao",
+    "domain_name": "thomas",
+    "expire_date": "2026-03-22 22:48:41",
+    "created_at": "2025-03-22 22:48:41",
+    "wallet_address": "5Dpzj1cQoksLDiMpH5soDQUjGacKcWhJbjNbHJJc2KnrpV76",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "thomas.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x15431dbadc63a14e5964ef1b0a9dc7949a508cf8c7e4c4eb27c75b40fc4592cd",
+    "previous_cid": null,
+    "wallet_address": "5Dpzj1cQoksLDiMpH5soDQUjGacKcWhJbjNbHJJc2KnrpV76",
+    "order_id": "e0fde910-93ff-4764-80c9-e4fbf9b51d57",
+    "event_date": "2025-03-22 22:48:41",
+    "expire_date": "2026-03-22 22:48:41"
+  }
+}
