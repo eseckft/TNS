@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "queen.tao",
+    "domain_name": "queen",
+    "expire_date": "2026-03-22 23:29:07",
+    "created_at": "2025-03-22 23:29:07",
+    "wallet_address": "5Dpzj1cQoksLDiMpH5soDQUjGacKcWhJbjNbHJJc2KnrpV76",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "queen.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x30cd75c8882a37ed6c24f9b743d34fb414d8ac0a4c4ee83c4c2a6982c68d69f7",
+    "previous_cid": null,
+    "wallet_address": "5Dpzj1cQoksLDiMpH5soDQUjGacKcWhJbjNbHJJc2KnrpV76",
+    "order_id": "d155cab4-7285-4ebf-b991-0f8a9937a0f0",
+    "event_date": "2025-03-22 23:29:07",
+    "expire_date": "2026-03-22 23:29:07"
+  }
+}
