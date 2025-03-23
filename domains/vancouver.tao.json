@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "vancouver.tao",
+    "domain_name": "vancouver",
+    "expire_date": "2026-03-22 22:52:22",
+    "created_at": "2025-03-22 22:52:22",
+    "wallet_address": "5Dpzj1cQoksLDiMpH5soDQUjGacKcWhJbjNbHJJc2KnrpV76",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "vancouver.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x49959347367e7f03a816de3c2ee1fce208e6b8bdf4ed1ac8f44728bb1a89aba5",
+    "previous_cid": null,
+    "wallet_address": "5Dpzj1cQoksLDiMpH5soDQUjGacKcWhJbjNbHJJc2KnrpV76",
+    "order_id": "d12ceacf-52c2-43cb-9cea-f8986e751f37",
+    "event_date": "2025-03-22 22:52:22",
+    "expire_date": "2026-03-22 22:52:22"
+  }
+}
