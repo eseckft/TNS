@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "canada.tao",
+    "domain_name": "canada",
+    "expire_date": "2026-03-22 22:56:50",
+    "created_at": "2025-03-22 22:56:50",
+    "wallet_address": "5Dpzj1cQoksLDiMpH5soDQUjGacKcWhJbjNbHJJc2KnrpV76",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "canada.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xb1440598756d3c02521af072a8e28fdbcf794db72adbe555ec8bdd2fbac1ca28",
+    "previous_cid": null,
+    "wallet_address": "5Dpzj1cQoksLDiMpH5soDQUjGacKcWhJbjNbHJJc2KnrpV76",
+    "order_id": "8cf76043-d7e8-49aa-89a7-6fa41b646b07",
+    "event_date": "2025-03-22 22:56:50",
+    "expire_date": "2026-03-22 22:56:50"
+  }
+}
