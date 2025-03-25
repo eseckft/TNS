@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "whatsapp.tao",
+    "domain_name": "whatsapp",
+    "expire_date": "2026-03-25 01:03:31",
+    "created_at": "2025-03-25 01:03:31",
+    "wallet_address": "5FU5PqDSWUuA97sKK3Nbahsj89ejCEcVMuejgDQjgdeUj5uK",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "whatsapp.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x92d3fdfbf02f63841995167ae1f994b44f30955458a6d2aa0888a4fa2554e971",
+    "previous_cid": null,
+    "wallet_address": "5FU5PqDSWUuA97sKK3Nbahsj89ejCEcVMuejgDQjgdeUj5uK",
+    "order_id": "7623599a-e7aa-4120-b752-f836ac3cbb32",
+    "event_date": "2025-03-25 01:03:31",
+    "expire_date": "2026-03-25 01:03:31"
+  }
+}
