@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "taoai.tao",
+    "domain_name": "taoai",
+    "expire_date": "2026-04-04 03:22:01",
+    "created_at": "2025-04-04 03:22:01",
+    "wallet_address": "5HVwd4Z5iiFzu5tA3Z6LQyCUUfYzRLSnsxM5Ltik6M79ASFG",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "taoai.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xa760ac0e33c8fbfd51972fa959a5e2953d2fa2c5bccd2412e7bcea247d5ce045",
+    "previous_cid": null,
+    "wallet_address": "5HVwd4Z5iiFzu5tA3Z6LQyCUUfYzRLSnsxM5Ltik6M79ASFG",
+    "order_id": "85e4d300-f3ed-47c7-b09a-905af0f9ffb1",
+    "event_date": "2025-04-04 03:22:01",
+    "expire_date": "2026-04-04 03:22:01"
+  }
+}
