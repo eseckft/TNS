@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "truthai.tao",
+    "domain_name": "truthai",
+    "expire_date": "2026-04-08 20:37:39",
+    "created_at": "2025-04-08 20:37:39",
+    "wallet_address": "5CG6FoF8puVNmb7mCEozSomhBE25YEMwSL4mSjySnTatDLGP",
+    "discount": true,
+    "discount_in_tao": 0.06,
+    "price_estimated_in_tao": 0.04,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "truthai.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x8f7cbc92d3c0a9fbf13011abfa86f00eceaf715734eac70eca290e5c873bfb82",
+    "previous_cid": null,
+    "wallet_address": "5CG6FoF8puVNmb7mCEozSomhBE25YEMwSL4mSjySnTatDLGP",
+    "order_id": "4f024df2-e421-4d33-9a04-1f46a1cc1e9d",
+    "event_date": "2025-04-08 20:37:39",
+    "expire_date": "2026-04-08 20:37:39"
+  }
+}
