@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "7777.tao",
+    "domain_name": "7777",
+    "expire_date": "2026-04-09 14:05:24",
+    "created_at": "2025-04-09 14:05:24",
+    "wallet_address": "5HHC87ZgZJecsqkgSAhvh3QxmxczJhG2u2xYbBoL6cD5DWE1",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.5,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "7777.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x9ec511dcae60114034a2121381d2d21d78057244b5f17801954dd71d96328e36",
+    "previous_cid": null,
+    "wallet_address": "5HHC87ZgZJecsqkgSAhvh3QxmxczJhG2u2xYbBoL6cD5DWE1",
+    "order_id": "5543fd88-d9fb-4515-92b3-2ef94263de05",
+    "event_date": "2025-04-09 14:05:24",
+    "expire_date": "2026-04-09 14:05:24"
+  }
+}
