@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "christmas.tao",
+    "domain_name": "christmas",
+    "expire_date": "2026-05-08 20:52:29",
+    "created_at": "2025-05-08 20:52:29",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "christmas.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x8f75f8ec9d30b7c76272aa33cc173f752d74573959bc523353eac947b6d874b3",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "1073b720-24cb-4c1c-b06c-3cc25acdb169",
+    "event_date": "2025-05-08 20:52:29",
+    "expire_date": "2026-05-08 20:52:29"
+  }
+}
