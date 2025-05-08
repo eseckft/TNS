@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "awesome.tao",
+    "domain_name": "awesome",
+    "expire_date": "2026-05-08 22:39:14",
+    "created_at": "2025-05-08 22:39:14",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "awesome.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xcb23b91cef3aa1a93e5c86424fbcbba25cd1b58d7bd664663b950fa3ed302988",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "27a9d8f9-16ec-40b5-a906-555c117c5877",
+    "event_date": "2025-05-08 22:39:14",
+    "expire_date": "2026-05-08 22:39:14"
+  }
+}
