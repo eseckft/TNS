@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "pacific.tao",
+    "domain_name": "pacific",
+    "expire_date": "2026-05-08 22:16:26",
+    "created_at": "2025-05-08 22:16:26",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "pacific.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x4b6dcf762ec625fa96bee7ce444e08c16233793e0bf159fc506870f23fdb491d",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "e55ab0b9-9ca3-458b-bf60-139717579b01",
+    "event_date": "2025-05-08 22:16:26",
+    "expire_date": "2026-05-08 22:16:26"
+  }
+}
