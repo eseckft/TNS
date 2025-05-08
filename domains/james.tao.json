@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "james.tao",
+    "domain_name": "james",
+    "expire_date": "2026-05-08 22:22:11",
+    "created_at": "2025-05-08 22:22:11",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "james.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x8b0f318c0932a12c2c5a3ad8220305b6e2c5e6ffab5096516669468c9e97329c",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "d9525594-9033-49ef-a1e4-8081ab051ffb",
+    "event_date": "2025-05-08 22:22:11",
+    "expire_date": "2026-05-08 22:22:11"
+  }
+}
