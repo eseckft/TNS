@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "william.tao",
+    "domain_name": "william",
+    "expire_date": "2026-05-08 22:46:49",
+    "created_at": "2025-05-08 22:46:49",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "william.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x2d177bc0905f2cc71b72a7d2dccef2c16a3b1d028cc2efba1b209878b92a91f0",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "9a9101a8-9055-45d1-97ea-c4d5a6a224f0",
+    "event_date": "2025-05-08 22:46:49",
+    "expire_date": "2026-05-08 22:46:49"
+  }
+}
