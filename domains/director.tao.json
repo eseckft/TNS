@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "director.tao",
+    "domain_name": "director",
+    "expire_date": "2026-05-08 18:55:53",
+    "created_at": "2025-05-08 18:55:53",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "director.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xab515afde4b6d8fe5baadca0bda0f97e3f134a2b36122197cbb58d0c9c260164",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "2744d8f0-a772-4d3b-8d4a-ebdc8b5780c8",
+    "event_date": "2025-05-08 18:55:53",
+    "expire_date": "2026-05-08 18:55:53"
+  }
+}
