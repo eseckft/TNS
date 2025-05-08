@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "rugby.tao",
+    "domain_name": "rugby",
+    "expire_date": "2026-05-08 22:45:40",
+    "created_at": "2025-05-08 22:45:40",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "rugby.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x4e570b21eab6c122f0876bf968237946321d1de42db7c02528f51deaa23c8eb8",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "c866c0cd-bd59-4bd1-b81e-006e3f328814",
+    "event_date": "2025-05-08 22:45:40",
+    "expire_date": "2026-05-08 22:45:40"
+  }
+}
