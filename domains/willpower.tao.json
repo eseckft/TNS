@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "willpower.tao",
+    "domain_name": "willpower",
+    "expire_date": "2026-05-08 22:14:43",
+    "created_at": "2025-05-08 22:14:43",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "willpower.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xdc2967ebfc204482401f121d89d4a4cd75aea95b6cad1766d6d4b6b421740ebf",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "baeaefa7-5c2e-4d70-a713-164f5301a233",
+    "event_date": "2025-05-08 22:14:43",
+    "expire_date": "2026-05-08 22:14:43"
+  }
+}
