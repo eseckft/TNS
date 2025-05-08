@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "duvet.tao",
+    "domain_name": "duvet",
+    "expire_date": "2026-05-08 22:10:59",
+    "created_at": "2025-05-08 22:10:59",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "duvet.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xa39f20c4be5b9bd8e615d84f12c65ee2fc0ea506c6f1642ccf0a71c0518f3d3a",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "6b4ad7e6-da11-420d-8f4f-e9a8f83f1247",
+    "event_date": "2025-05-08 22:10:59",
+    "expire_date": "2026-05-08 22:10:59"
+  }
+}
