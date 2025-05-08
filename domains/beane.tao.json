@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "beane.tao",
+    "domain_name": "beane",
+    "expire_date": "2026-05-08 22:25:28",
+    "created_at": "2025-05-08 22:25:28",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "beane.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xc244748a2b7159f741c70bc08c2f83b4bf6ea88a8076a9be2f8964320d655eda",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "8aebfa58-3f31-4a1d-afc3-143d01385261",
+    "event_date": "2025-05-08 22:25:28",
+    "expire_date": "2026-05-08 22:25:28"
+  }
+}
