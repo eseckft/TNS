@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "topix.tao",
+    "domain_name": "topix",
+    "expire_date": "2026-05-08 21:04:53",
+    "created_at": "2025-05-08 21:04:53",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "topix.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x2ccef46f693324dbd7875e7f6464d12e7212f0d78781f3cfb497298692e20874",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "d9230d40-5d46-4001-a4e6-7875ebdaff74",
+    "event_date": "2025-05-08 21:04:53",
+    "expire_date": "2026-05-08 21:04:53"
+  }
+}
