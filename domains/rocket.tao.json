@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "rocket.tao",
+    "domain_name": "rocket",
+    "expire_date": "2026-05-09 10:55:12",
+    "created_at": "2025-05-09 10:55:12",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "rocket.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x0e5094f5371d5d0e5612f808d44bc0e4fe8a80c4e7dd53a5f208e1c61aa2ae8d",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "f1e9bd38-96ea-434c-af42-5c0e779be546",
+    "event_date": "2025-05-09 10:55:12",
+    "expire_date": "2026-05-09 10:55:12"
+  }
+}
