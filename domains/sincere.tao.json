@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "sincere.tao",
+    "domain_name": "sincere",
+    "expire_date": "2026-05-09 12:16:12",
+    "created_at": "2025-05-09 12:16:12",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "sincere.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x21d3711205131bfe33be412b4cd415e8b689f09383560eeac26f2e0bcb128889",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "23c1133d-9072-44f3-a4b9-54f4e7b0e032",
+    "event_date": "2025-05-09 12:16:12",
+    "expire_date": "2026-05-09 12:16:12"
+  }
+}
