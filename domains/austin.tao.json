@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "austin.tao",
+    "domain_name": "austin",
+    "expire_date": "2026-05-09 12:27:06",
+    "created_at": "2025-05-09 12:27:06",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "austin.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xd62efe4e478f6beda7b27a0da227beed2dd04703cb65e4fb05457a50e5711cc7",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "f539e80c-8983-4d5c-a253-171af114b0a0",
+    "event_date": "2025-05-09 12:27:06",
+    "expire_date": "2026-05-09 12:27:06"
+  }
+}
