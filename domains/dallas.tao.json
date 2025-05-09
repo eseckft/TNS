@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "dallas.tao",
+    "domain_name": "dallas",
+    "expire_date": "2026-05-09 12:25:43",
+    "created_at": "2025-05-09 12:25:43",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "dallas.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xb60f4e62a1a0ceb0abacd0db365171ebf525848a9c60e224cf14af6afe62d22a",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "e7e39acb-7811-4f74-ae60-f8d143d2fe21",
+    "event_date": "2025-05-09 12:25:43",
+    "expire_date": "2026-05-09 12:25:43"
+  }
+}
