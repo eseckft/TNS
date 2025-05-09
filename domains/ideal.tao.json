@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "ideal.tao",
+    "domain_name": "ideal",
+    "expire_date": "2026-05-09 12:58:18",
+    "created_at": "2025-05-09 12:58:18",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "ideal.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x6cb09d44d3bbe9d3666fd6654bb872e5c3240d2c84fcd8e43421ad5d4bc4ab10",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "e70ae899-7aa4-4b64-865a-ad511aa61a0f",
+    "event_date": "2025-05-09 12:58:18",
+    "expire_date": "2026-05-09 12:58:18"
+  }
+}
