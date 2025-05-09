@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "power.tao",
+    "domain_name": "power",
+    "expire_date": "2026-05-09 12:14:58",
+    "created_at": "2025-05-09 12:14:58",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "power.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x55afb4d555de9136f3eb6bc70e8b757d65f0b46af28a1de3f6b1044f0a40bfc1",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "26f46c24-780c-44bf-96ef-df96520387b6",
+    "event_date": "2025-05-09 12:14:58",
+    "expire_date": "2026-05-09 12:14:58"
+  }
+}
