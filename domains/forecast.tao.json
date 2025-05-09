@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "forecast.tao",
+    "domain_name": "forecast",
+    "expire_date": "2026-05-09 12:24:05",
+    "created_at": "2025-05-09 12:24:05",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "forecast.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x9abec18e4c24989424b3667ddde979e3fd631f6e3b4e636e670fd09c6b2ca171",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "ca6529c6-0cc5-424f-8558-b5cb4f457299",
+    "event_date": "2025-05-09 12:24:05",
+    "expire_date": "2026-05-09 12:24:05"
+  }
+}
