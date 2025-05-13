@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "beauty.tao",
+    "domain_name": "beauty",
+    "expire_date": "2026-05-09 13:50:04",
+    "created_at": "2025-05-09 13:50:04",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "beauty.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xeef5dbd17c64e45a498c381c57f5c288c7c2c29eaab847120ddb455226a74359",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "da7a8a23-da6a-492d-b633-ac4f5771b2f8",
+    "event_date": "2025-05-09 13:50:04",
+    "expire_date": "2026-05-09 13:50:04"
+  }
+}
