@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "winter.tao",
+    "domain_name": "winter",
+    "expire_date": "2026-05-09 13:48:51",
+    "created_at": "2025-05-09 13:48:51",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "winter.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x602a35ce2d920c6e59cb9c92133050114e51e5cba29d939e3e5cefcbd9e05ecf",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "a8463c68-f425-4b28-aed8-dad7cf36c491",
+    "event_date": "2025-05-09 13:48:51",
+    "expire_date": "2026-05-09 13:48:51"
+  }
+}
