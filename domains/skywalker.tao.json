@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "skywalker.tao",
+    "domain_name": "skywalker",
+    "expire_date": "2026-05-09 13:22:00",
+    "created_at": "2025-05-09 13:22:00",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "skywalker.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x89214b91bea411eca3b3b568d8ce1ef94c2b73c7e9644d2d5a28b4eacb0b1c26",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "59806bfb-f268-4733-a0d8-670086e1c57f",
+    "event_date": "2025-05-09 13:22:00",
+    "expire_date": "2026-05-09 13:22:00"
+  }
+}
