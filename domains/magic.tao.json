@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "magic.tao",
+    "domain_name": "magic",
+    "expire_date": "2026-05-09 13:40:37",
+    "created_at": "2025-05-09 13:40:37",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "magic.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0xdced14096612b622c01b5d21b825d680f6de2f73f563c64e800fcb025615322a",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "b0336f77-25d6-4a7b-aa07-2c10470b8518",
+    "event_date": "2025-05-09 13:40:37",
+    "expire_date": "2026-05-09 13:40:37"
+  }
+}
