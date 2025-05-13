@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "balance.tao",
+    "domain_name": "balance",
+    "expire_date": "2026-05-09 13:51:38",
+    "created_at": "2025-05-09 13:51:38",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "balance.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x45c4534b0c023e024684750d4c35166336370bc87dd8238b5e0deadfdd0de2c4",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "47e1e1f6-074d-49ee-b51c-c17d968503ff",
+    "event_date": "2025-05-09 13:51:38",
+    "expire_date": "2026-05-09 13:51:38"
+  }
+}
