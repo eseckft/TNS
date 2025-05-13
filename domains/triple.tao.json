@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "triple.tao",
+    "domain_name": "triple",
+    "expire_date": "2026-05-09 13:19:26",
+    "created_at": "2025-05-09 13:19:26",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "triple.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x9458f785a5186cbd3743af36882e7c6bb3ecb06f7c29a2be89bb095b582af155",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "7a36d4fc-9082-41e4-8514-098e1ffa36b1",
+    "event_date": "2025-05-09 13:19:26",
+    "expire_date": "2026-05-09 13:19:26"
+  }
+}
