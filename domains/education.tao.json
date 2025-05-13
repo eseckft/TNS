@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "education.tao",
+    "domain_name": "education",
+    "expire_date": "2026-05-09 13:07:23",
+    "created_at": "2025-05-09 13:07:23",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "education.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x26bb96f77d2da154a15d7d9a64669141d8499d56d743a24128d96198018f247d",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "de4f9004-4859-451c-86d1-2e400366c280",
+    "event_date": "2025-05-09 13:07:23",
+    "expire_date": "2026-05-09 13:07:23"
+  }
+}
