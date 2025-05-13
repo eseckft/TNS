@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "wisdom.tao",
+    "domain_name": "wisdom",
+    "expire_date": "2026-05-09 13:38:26",
+    "created_at": "2025-05-09 13:38:26",
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "wisdom.tao",
+    "event_type": "buy_domain",
+    "tx_hash": "0x12d70d26427294bc0bacc85b13a35cec1dc5dba153e3117ca5ae810b421b8e03",
+    "previous_cid": null,
+    "wallet_address": "5D4RKg6VKJfpAMeHL1q9W4rbfktr2xVkNZe8cpML3nxdCqkt",
+    "order_id": "e8d76ec3-edd4-47a2-b2b7-9aafb43eb809",
+    "event_date": "2025-05-09 13:38:26",
+    "expire_date": "2026-05-09 13:38:26"
+  }
+}
