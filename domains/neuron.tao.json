@@ -1,0 +1,25 @@
+{
+  "domain_info": {
+    "domain": "neuron.tao",
+    "domain_name": "neuron",
+    "expire_date": "2026-05-16 23:43:25",
+    "created_at": "2025-05-16 23:43:25",
+    "wallet_address": "5EWkYTN9Qq3HNQDnbT4rJhzkTXazvoqNEnmEsrLfuMsYszDi",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "neuron.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x30a52f7444e931c51f0fcf3a8d1ed764558805ddc4136b8dec9259673183207f",
+    "previous_cid": null,
+    "wallet_address": "5EWkYTN9Qq3HNQDnbT4rJhzkTXazvoqNEnmEsrLfuMsYszDi",
+    "order_id": "c408701d-b3b6-4e7b-ac27-6a164b205e16",
+    "event_date": "2025-05-16 23:43:25",
+    "expire_date": "2026-05-16 23:43:25",
+    "ipfs_cid": "QmQSrCma9rSi8oYxJ6P6ByPY3eYahNm8RJuG6um2UzQJZ5"
+  }
+}
