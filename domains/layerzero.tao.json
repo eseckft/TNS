@@ -1,0 +1,25 @@
+{
+  "domain_info": {
+    "domain": "layerzero.tao",
+    "domain_name": "layerzero",
+    "expire_date": "2026-05-16 15:33:18",
+    "created_at": "2025-05-16 15:33:18",
+    "wallet_address": "5HHC87ZgZJecsqkgSAhvh3QxmxczJhG2u2xYbBoL6cD5DWE1",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "layerzero.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xbb18a10590b40a0b4476a4553564577e88bb208c74fa8aef86c1d523813ba8a9",
+    "previous_cid": null,
+    "wallet_address": "5HHC87ZgZJecsqkgSAhvh3QxmxczJhG2u2xYbBoL6cD5DWE1",
+    "order_id": "2a7c1e30-cc5f-4861-bd1f-d2c5bd346542",
+    "event_date": "2025-05-16 15:33:18",
+    "expire_date": "2026-05-16 15:33:18",
+    "ipfs_cid": "QmdyXzeDUDoWJwJsk8tgr62SzdrPhVs7EsrNXUEXJqrkif"
+  }
+}
