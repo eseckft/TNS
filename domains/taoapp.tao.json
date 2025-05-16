@@ -1,0 +1,24 @@
+{
+  "domain_info": {
+    "domain": "taoapp.tao",
+    "domain_name": "taoapp",
+    "expire_date": "2026-05-16 04:49:19",
+    "created_at": "2025-05-16 04:49:19",
+    "wallet_address": "5EnrL9L8jacejb93pXJQHhy4wAqeT9abmXKPTDFzUQMpRpQy",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "taoapp.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x5ded6faa64a8362f18365bdf397afd0e681ecb30a6d6cc41d98b483959a4a548",
+    "previous_cid": null,
+    "wallet_address": "5EnrL9L8jacejb93pXJQHhy4wAqeT9abmXKPTDFzUQMpRpQy",
+    "order_id": "744a0cbb-4c81-4692-9d2c-cd35786ace6a",
+    "event_date": "2025-05-16 04:49:19",
+    "expire_date": "2026-05-16 04:49:19"
+  }
+}
