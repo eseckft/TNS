@@ -1,0 +1,25 @@
+{
+  "domain_info": {
+    "domain": "pools.tao",
+    "domain_name": "pools",
+    "expire_date": "2026-05-22 19:29:37",
+    "created_at": "2025-05-22 19:29:37",
+    "wallet_address": "5DZGV2phAXQvXJJCsfDzKKAAtGEM3tAWg9vaxYGoDwNio4gt",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "pools.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xfe54564e9b2b7ba897168827f91146eea8707a7fb0c246e56f1207eb4fc4f4db",
+    "previous_cid": null,
+    "wallet_address": "5DZGV2phAXQvXJJCsfDzKKAAtGEM3tAWg9vaxYGoDwNio4gt",
+    "order_id": "6ecbc071-212a-457d-bb2d-cd682a986939",
+    "event_date": "2025-05-22 19:29:37",
+    "expire_date": "2026-05-22 19:29:37",
+    "ipfs_cid": "QmXLYXLFJ3LQ21YbDvfuQFf5bkp6Z9tsCz5uwdJ7HFQpTu"
+  }
+}
