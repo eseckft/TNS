@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "matter.tao",
+    "domain_name": "matter",
+    "created_at": "2025-05-25 15:30:21",
+    "wallet_address": "5FLmAhUq9UMp3DigTtZZaHqg95rPqrHxav64LiJFNMfBit3A",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "matter.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x0ec5cc57b02260ffac15a1529983725ea31bbcaf57f69aee537364ed4e496060",
+    "previous_cid": null,
+    "wallet_address": "5FLmAhUq9UMp3DigTtZZaHqg95rPqrHxav64LiJFNMfBit3A",
+    "order_id": "7216afed-2093-486f-9582-82c4c2fc409d",
+    "event_date": "2025-05-25 15:30:21",
+    "ipfs_cid": "QmYbD21e1hgtAwKvhivBbsgc7BNj4QJzCP2S1KKoCto62G"
+  }
+}
