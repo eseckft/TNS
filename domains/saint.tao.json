@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "saint.tao",
+    "domain_name": "saint",
+    "created_at": "2025-05-25 16:00:08",
+    "wallet_address": "5FLmAhUq9UMp3DigTtZZaHqg95rPqrHxav64LiJFNMfBit3A",
+    "discount": true,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "saint.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xb076287843fff1256bbf7b0787ea706da88b0ac6dcfa6b2edbf2938274536e2e",
+    "previous_cid": null,
+    "wallet_address": "5FLmAhUq9UMp3DigTtZZaHqg95rPqrHxav64LiJFNMfBit3A",
+    "order_id": "d37a894f-3bdf-4868-aa63-767ffa215c93",
+    "event_date": "2025-05-25 16:00:08",
+    "ipfs_cid": "QmWkZDpPxTbLdF1ayeUJK8ot4tjdvPHj4ebf8nunp3kNRq"
+  }
+}
