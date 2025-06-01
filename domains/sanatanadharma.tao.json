@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "sanatanadharma.tao",
+    "domain_name": "sanatanadharma",
+    "created_at": "2025-06-01 07:20:55",
+    "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
+    "discount": true,
+    "discount_in_tao": 0.06,
+    "price_estimated_in_tao": 0.04,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "sanatanadharma.tao",
+    "event_type": "buy_domain",
+    "price": 0.04,
+    "tx_hash": "0x2e9f703b3b6bf1b6647912383c29f9ae8d2184f274ae8ec7167ef9fdc9e7b8ae",
+    "previous_cid": null,
+    "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
+    "order_id": "34811790-6ebf-4167-9aac-715ee1ba709e",
+    "event_date": "2025-06-01 07:20:55",
+    "ipfs_cid": "QmfWYx82FwoF1ZcZFQboKUsaaqtd14TFstq8ZD5bgf1zLZ"
+  }
+}
