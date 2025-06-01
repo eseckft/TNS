@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "bharat.tao",
+    "domain_name": "bharat",
+    "created_at": "2025-06-01 07:24:21",
+    "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
+    "discount": true,
+    "discount_in_tao": 0.06,
+    "price_estimated_in_tao": 0.04,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "bharat.tao",
+    "event_type": "buy_domain",
+    "price": 0.04,
+    "tx_hash": "0x7d5951b9a5e94624a9088afa643523d780919c7bed532348044cd4c3d0881147",
+    "previous_cid": null,
+    "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
+    "order_id": "3cbc90bb-6832-424e-b72e-27f439f77663",
+    "event_date": "2025-06-01 07:24:21",
+    "ipfs_cid": "QmQ4SgCo5KPdGkLbuPiSnotTwMwSRChAsYSWpDD7hAMSas"
+  }
+}
