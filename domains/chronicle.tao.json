@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "chronicle.tao",
+    "domain_name": "chronicle",
+    "created_at": "2025-06-01 07:32:26",
+    "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
+    "discount": true,
+    "discount_in_tao": 0.06,
+    "price_estimated_in_tao": 0.04,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "chronicle.tao",
+    "event_type": "buy_domain",
+    "price": 0.04,
+    "tx_hash": "0x1d76521ce1a47d0109f6f85016fe25fb0fccfcee4bd9e589b027384541ca029b",
+    "previous_cid": null,
+    "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
+    "order_id": "e45a5c47-e5f6-45f3-bb2d-f373d2536bd7",
+    "event_date": "2025-06-01 07:32:26",
+    "ipfs_cid": "QmPTDBp6hA4bhZNttZ73ExvFJdzrtad2Lb9u6tfNepB6kd"
+  }
+}
