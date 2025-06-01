@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "altcoindaily.tao",
+    "domain_name": "altcoindaily",
+    "created_at": "2025-06-01 09:31:36",
+    "wallet_address": "5CLkURB7EH2Py6DfL2MS3WWXi8DBMB1DAquBWrJDzprzQxxo",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "altcoindaily.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xa3b2ccf33d2545335dcad49cce0e694eca386bdb0fcc915dbcdb53a754360f37",
+    "previous_cid": null,
+    "wallet_address": "5CLkURB7EH2Py6DfL2MS3WWXi8DBMB1DAquBWrJDzprzQxxo",
+    "order_id": "16c5c0c7-1ed1-4612-99ad-c94e9860bbd7",
+    "event_date": "2025-06-01 09:31:36",
+    "ipfs_cid": "QmaVeCVuDRuZKts4fasuj5geaxweAAb38hpBS6qbYC7NAu"
+  }
+}
