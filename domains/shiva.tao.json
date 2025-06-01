@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "shiva.tao",
+    "domain_name": "shiva",
+    "created_at": "2025-06-01 07:09:15",
+    "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
+    "discount": true,
+    "discount_in_tao": 0.06,
+    "price_estimated_in_tao": 0.04,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "shiva.tao",
+    "event_type": "buy_domain",
+    "price": 0.04,
+    "tx_hash": "0x5fb00dd54bf28529b0f0277fe77b7ed675c30b032edb3f46eebb19b764196a1e",
+    "previous_cid": null,
+    "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
+    "order_id": "bb4d41e0-15d1-46fb-8776-3dda9e8ca416",
+    "event_date": "2025-06-01 07:09:15",
+    "ipfs_cid": "Qma98VVz5U4A3f896fv5H5ScyEzhACi6t9WwNfrd7xYy2s"
+  }
+}
