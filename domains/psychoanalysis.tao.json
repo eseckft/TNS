@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "psychoanalysis.tao",
+    "domain_name": "psychoanalysis",
+    "created_at": "2025-06-02 22:20:57",
+    "wallet_address": "5DkGHpSoUnEYtAov44XNrbmKwiLpH6nigdgfkb2UmoMMa9ev",
+    "discount": true,
+    "discount_in_tao": 0.06,
+    "price_estimated_in_tao": 0.04,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "psychoanalysis.tao",
+    "event_type": "buy_domain",
+    "price": 0.04,
+    "tx_hash": "0x896fe603a3df225ab5992fa5de57d2eb9305700c1542ab92f2a94a323d355fee",
+    "previous_cid": null,
+    "wallet_address": "5DkGHpSoUnEYtAov44XNrbmKwiLpH6nigdgfkb2UmoMMa9ev",
+    "order_id": "de3fc22b-5234-4f2e-a8c3-453e17400e61",
+    "event_date": "2025-06-02 22:20:57",
+    "ipfs_cid": "QmPwAAnEwwPQcUdatFWfTFhzV8dmejZkhdodAjezYtJnva"
+  }
+}
