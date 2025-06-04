@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "hashrate.tao",
+    "domain_name": "hashrate",
+    "created_at": "2025-06-04 02:57:42",
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "hashrate.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xd60be7389b050647068488766f731b723c52a6a9cdcd704dfbd4fab2d2b7939f",
+    "previous_cid": null,
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "order_id": "50e72e6d-b376-4252-ae74-66439503cfec",
+    "event_date": "2025-06-04 02:57:42",
+    "ipfs_cid": "QmWpYUMz5bjiqnyAu9Vp9XP8UDJjjT9SaVqkj2tJ1Engga"
+  }
+}
