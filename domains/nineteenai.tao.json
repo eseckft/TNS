@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "nineteenai.tao",
+    "domain_name": "nineteenai",
+    "created_at": "2025-06-04 02:00:43",
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "nineteenai.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x3171ecf355fc286a52663b23eb327fa1c3319878c3565f4ecd80b213bf83f6a7",
+    "previous_cid": null,
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "order_id": "1aac221f-2463-4a00-a8d6-622c9d4aa307",
+    "event_date": "2025-06-04 02:00:43",
+    "ipfs_cid": "Qmcc6yDTrpK4XnmnDtMfKj8oZXnuBuMwZ44m7xPmCCu64v"
+  }
+}
