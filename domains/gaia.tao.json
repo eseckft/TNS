@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "gaia.tao",
+    "domain_name": "gaia",
+    "created_at": "2025-06-04 01:22:24",
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.5,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "gaia.tao",
+    "event_type": "buy_domain",
+    "price": 0.5,
+    "tx_hash": "0x518b0bd7713ee87a23e0e04a90d6050206f0cbf12837fe1725f6f62453f404ce",
+    "previous_cid": null,
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "order_id": "2ff98178-23fa-476f-96bf-b42b0e374d5f",
+    "event_date": "2025-06-04 01:22:24",
+    "ipfs_cid": "QmRFL6x7rL72FWzPsFPafj4Hor41yp1FZysAsmY4zzzu7Y"
+  }
+}
