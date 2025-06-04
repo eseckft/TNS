@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "flockoff.tao",
+    "domain_name": "flockoff",
+    "created_at": "2025-06-04 01:37:50",
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "flockoff.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xf1496d3d19b613fe8f74dd0a4acbd90f19f3f4e773d0f42902cf86520c7c1f3c",
+    "previous_cid": null,
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "order_id": "82afc2eb-f697-4e8d-92bc-2872217ff0bc",
+    "event_date": "2025-06-04 01:37:50",
+    "ipfs_cid": "QmQ56gS3gv93xkHRdPyH6sMbsgr8L7JQQ9t6DXkmHC9wQd"
+  }
+}
