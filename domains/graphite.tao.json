@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "graphite.tao",
+    "domain_name": "graphite",
+    "created_at": "2025-06-04 01:42:29",
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "graphite.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xc2e22d01d8325b5333df96f360c0d61fe875883c473f3c80da87b35d1c624e33",
+    "previous_cid": null,
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "order_id": "bbcfa282-2f38-4b14-aaf8-2f5391b1aba2",
+    "event_date": "2025-06-04 01:42:29",
+    "ipfs_cid": "QmbR3kCHnufoR1dvRDmigddT4Z8Cz2R5SxW9hcBttE79Ne"
+  }
+}
