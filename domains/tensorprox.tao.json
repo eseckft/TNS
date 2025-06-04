@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "tensorprox.tao",
+    "domain_name": "tensorprox",
+    "created_at": "2025-06-04 01:47:13",
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "tensorprox.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x7b516c8e05fad684f4f0de63605e48adec1bffe9a5cd2a6c1c05b1644e80e3b9",
+    "previous_cid": null,
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "order_id": "557b112d-6828-42cd-86a9-c0b01b2a3d7e",
+    "event_date": "2025-06-04 01:47:13",
+    "ipfs_cid": "QmYk4qZDxyuSNJi9BdA4E29JBQfGAkfkrVTx92TKfPbdT7"
+  }
+}
