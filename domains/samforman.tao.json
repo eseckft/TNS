@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "samforman.tao",
+    "domain_name": "samforman",
+    "created_at": "2025-06-04 03:05:44",
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "samforman.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xfba5b14465616d71c944e43b06193f8e8fed9d1d90707169e453c02c49d1395f",
+    "previous_cid": null,
+    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
+    "order_id": "7ddeb530-d921-416f-b68e-446dfe4f9d91",
+    "event_date": "2025-06-04 03:05:44",
+    "ipfs_cid": "QmfMjLqTYyPzVw7wCafSKFGnkefVUBJQwcBmmeZj6rYgQQ"
+  }
+}
