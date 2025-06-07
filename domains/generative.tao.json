@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "generative.tao",
+    "domain_name": "generative",
+    "created_at": "2025-06-07 01:33:06",
+    "wallet_address": "5DHzKHPG7ppUk4oyTg66s2wjsh3ABZ9jydtnDmRmFQbngdEC",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "generative.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x42db14f2ab8066fce122760829f83ca14f07e9f1ec8994e956fe3a32a3c61815",
+    "previous_cid": null,
+    "wallet_address": "5DHzKHPG7ppUk4oyTg66s2wjsh3ABZ9jydtnDmRmFQbngdEC",
+    "order_id": "19925533-aeb1-463d-9c06-3c7aa0adc7d4",
+    "event_date": "2025-06-07 01:33:06",
+    "ipfs_cid": "Qmdf8vatA1D523cnKsqPFUm3YSVQobctK9QHCC28xQwTLA"
+  }
+}
