@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "spider.tao",
+    "domain_name": "spider",
+    "created_at": "2025-06-15 05:43:13",
+    "wallet_address": "5FvkskYsDx3FkAnbTs1ziJQXB2bWypGC8V5rxT8ZSRm75DgA",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "spider.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xbe48f1d11f2367b0be832858c725752fc0b01dd1d1d7e0d687df4d682fb23f25",
+    "previous_cid": null,
+    "wallet_address": "5FvkskYsDx3FkAnbTs1ziJQXB2bWypGC8V5rxT8ZSRm75DgA",
+    "order_id": "dfc11fdd-6711-4439-ba26-3425d5fddb40",
+    "event_date": "2025-06-15 05:43:13",
+    "ipfs_cid": "QmcFoJpqddoEfY87AcwHhyahsqLRR8fnBucygUV74oB8Tw"
+  }
+}
