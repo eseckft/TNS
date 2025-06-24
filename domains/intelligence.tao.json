@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "intelligence.tao",
+    "domain_name": "intelligence",
+    "created_at": "2025-06-24 00:03:47",
+    "wallet_address": "5DHzKHPG7ppUk4oyTg66s2wjsh3ABZ9jydtnDmRmFQbngdEC",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "intelligence.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x699ec6d601ed4de151c4997673da965386c657ab03a035e407e5cc52bbba8c81",
+    "previous_cid": null,
+    "wallet_address": "5DHzKHPG7ppUk4oyTg66s2wjsh3ABZ9jydtnDmRmFQbngdEC",
+    "order_id": "49164b21-ddb7-41d5-8743-5a4469938fb2",
+    "event_date": "2025-06-24 00:03:47",
+    "ipfs_cid": "QmNZ1tiabqfvdT4EfKg3vZK3UYRznjPQRVxbAWtBzXVxw3"
+  }
+}
