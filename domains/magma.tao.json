@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "magma.tao",
+    "domain_name": "magma",
+    "created_at": "2025-06-29 08:12:53",
+    "wallet_address": "5EFhGPgeo9g7tZn6yg4ZdSmbK7v5STqCWrGVr5Dxbmh1H6Fs",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "magma.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x0937310a18d0de10590491b621899bb9b85e700251ac6b19cb86de1d03f1a145",
+    "previous_cid": null,
+    "wallet_address": "5EFhGPgeo9g7tZn6yg4ZdSmbK7v5STqCWrGVr5Dxbmh1H6Fs",
+    "order_id": "fa79e82a-1f9a-4bf6-8f75-309deb32a9a0",
+    "event_date": "2025-06-29 08:12:53",
+    "ipfs_cid": "QmXfHSqzikB4ubqF1PntS1wxBqgWdXfWJfyFxo8QksA5X7"
+  }
+}
