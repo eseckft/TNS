@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "trader.tao",
+    "domain_name": "trader",
+    "created_at": "2025-07-15 22:51:31",
+    "wallet_address": "5C7tNVdCe6SZ7v87wwPygng82e3Kj37yPHfDaUqv9PakTadT",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "trader.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xd6aff28226125a3b09dfecc64f95ad18e0f24cb19bd61c8459e8628ebef99cf0",
+    "previous_cid": null,
+    "wallet_address": "5C7tNVdCe6SZ7v87wwPygng82e3Kj37yPHfDaUqv9PakTadT",
+    "order_id": "ab1e3d44-a105-4681-aae4-7baf709a45e4",
+    "event_date": "2025-07-15 22:51:31",
+    "ipfs_cid": "QmYVKzZyB7iVWsuYinAsVq3y2nPLbhVK79F1TZdUAvkaP3"
+  }
+}
