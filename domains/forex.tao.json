@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "forex.tao",
+    "domain_name": "forex",
+    "created_at": "2025-07-15 23:02:15",
+    "wallet_address": "5C7tNVdCe6SZ7v87wwPygng82e3Kj37yPHfDaUqv9PakTadT",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "forex.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x0c1ef8f8227376194f5e44f13e855a5ec4a8fb85eee40f74309b3655b9e46375",
+    "previous_cid": null,
+    "wallet_address": "5C7tNVdCe6SZ7v87wwPygng82e3Kj37yPHfDaUqv9PakTadT",
+    "order_id": "329beb73-7ec7-4da8-8c3d-1bc5901a4662",
+    "event_date": "2025-07-15 23:02:15",
+    "ipfs_cid": "QmP1dPKoGLLhQMcUgcwbcQXjxYta4mTzz5BNrdbufjHHBB"
+  }
+}
