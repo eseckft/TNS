@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "investor.tao",
+    "domain_name": "investor",
+    "created_at": "2025-07-16 02:14:11",
+    "wallet_address": "5C7tNVdCe6SZ7v87wwPygng82e3Kj37yPHfDaUqv9PakTadT",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "investor.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x02d2e7b443df8322f80422f28df4313a786e84004b68e25325337c3195b66628",
+    "previous_cid": null,
+    "wallet_address": "5C7tNVdCe6SZ7v87wwPygng82e3Kj37yPHfDaUqv9PakTadT",
+    "order_id": "a8a49ca5-48f1-4058-81ff-1976e8e4edfa",
+    "event_date": "2025-07-16 02:14:11",
+    "ipfs_cid": "QmX6tbXxaHGRfqXwLwhb6bpCA7NKkozXgGdagCYLBbfb32"
+  }
+}
