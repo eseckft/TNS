@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "internet.tao",
+    "domain_name": "internet",
+    "created_at": "2025-07-20 11:18:47",
+    "wallet_address": "5FLmAhUq9UMp3DigTtZZaHqg95rPqrHxav64LiJFNMfBit3A",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "internet.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xe070f524d338530d111a2cb20cdb44a29ecbfb213d2a20be1a6b7e99dad90fbb",
+    "previous_cid": null,
+    "wallet_address": "5FLmAhUq9UMp3DigTtZZaHqg95rPqrHxav64LiJFNMfBit3A",
+    "order_id": "01b996a7-5c73-4ca3-8986-4abbb08dd9f8",
+    "event_date": "2025-07-20 11:18:47",
+    "ipfs_cid": "QmSq9gFfGPa2LnPy7kez9AWUjFzKwBGLTLngqP1aB3vsc2"
+  }
+}
