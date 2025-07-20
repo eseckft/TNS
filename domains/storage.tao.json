@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "storage.tao",
+    "domain_name": "storage",
+    "created_at": "2025-07-20 22:27:46",
+    "wallet_address": "5FexFXAv2MKtxmgz4Yhkqev41FvfFGJA2hNmdnCkVZ9g9HFB",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "storage.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x89c120dfae75615d778da4dd3c3ab2d8e4a614f1087b497b7a892f1697217299",
+    "previous_cid": null,
+    "wallet_address": "5FexFXAv2MKtxmgz4Yhkqev41FvfFGJA2hNmdnCkVZ9g9HFB",
+    "order_id": "5b282e8d-02a3-4c0e-adc5-1c7ceeb92d34",
+    "event_date": "2025-07-20 22:27:46",
+    "ipfs_cid": "QmdfWhBFteLYLiYeE6Br64T6j1SXd2MDNMCBDqQTfEEqw6"
+  }
+}
