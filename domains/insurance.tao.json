@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "insurance.tao",
+    "domain_name": "insurance",
+    "created_at": "2025-07-20 22:19:41",
+    "wallet_address": "5FexFXAv2MKtxmgz4Yhkqev41FvfFGJA2hNmdnCkVZ9g9HFB",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "insurance.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xb48993c4e6be2b1dd88b45fcbf60da53d8807dc27ca16589c7fc49c692dedcd6",
+    "previous_cid": null,
+    "wallet_address": "5FexFXAv2MKtxmgz4Yhkqev41FvfFGJA2hNmdnCkVZ9g9HFB",
+    "order_id": "cbdf8f7b-e100-4a8b-a74c-d924436e7330",
+    "event_date": "2025-07-20 22:19:41",
+    "ipfs_cid": "QmaHQNKiDS9yGVqPLsnnwfhFUg3p7MRiEeSnwC6inT7cN9"
+  }
+}
