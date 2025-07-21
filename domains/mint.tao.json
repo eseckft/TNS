@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "mint.tao",
+    "domain_name": "mint",
+    "created_at": "2025-07-21 18:50:28",
+    "wallet_address": "5Ea2pz7eqoxsW85xGNV6KFioKs6KUXkBaQQvp7R7V1DTC5fw",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.5,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "mint.tao",
+    "event_type": "buy_domain",
+    "price": 0.5,
+    "tx_hash": "0x213316c57aa53c1f12fa9c66e3c3dd0ebb0455d65b58c285dc113300404537fb",
+    "previous_cid": null,
+    "wallet_address": "5Ea2pz7eqoxsW85xGNV6KFioKs6KUXkBaQQvp7R7V1DTC5fw",
+    "order_id": "4411a8c8-5b8b-4277-b0eb-aeb7160fbb3a",
+    "event_date": "2025-07-21 18:50:28",
+    "ipfs_cid": "QmU5Sve6UGqgaAE5q7D7pMphVnf4DFpLfFkrUzKbH5ALoR"
+  }
+}
