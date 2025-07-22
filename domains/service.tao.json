@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "service.tao",
+    "domain_name": "service",
+    "created_at": "2025-07-22 21:58:09",
+    "wallet_address": "5FexFXAv2MKtxmgz4Yhkqev41FvfFGJA2hNmdnCkVZ9g9HFB",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "service.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x2e855c3cebdad5cc7d998fb1555404da6df341ff015b5188aac12a6be22c84ad",
+    "previous_cid": null,
+    "wallet_address": "5FexFXAv2MKtxmgz4Yhkqev41FvfFGJA2hNmdnCkVZ9g9HFB",
+    "order_id": "c357a5c2-22a7-461f-b109-26d195edf1df",
+    "event_date": "2025-07-22 21:58:09",
+    "ipfs_cid": "QmfJdbWcc7aguv8KTAjjua78a5vYN3ScU5Sy5RzwSTFBGA"
+  }
+}
