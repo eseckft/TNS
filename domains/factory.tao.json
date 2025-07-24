@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "factory.tao",
+    "domain_name": "factory",
+    "created_at": "2025-07-24 12:19:55",
+    "wallet_address": "5FexFXAv2MKtxmgz4Yhkqev41FvfFGJA2hNmdnCkVZ9g9HFB",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "factory.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xad036ac078966b7c6b92f969f8044a5357c3ccc0884cf2785474291c27658348",
+    "previous_cid": null,
+    "wallet_address": "5FexFXAv2MKtxmgz4Yhkqev41FvfFGJA2hNmdnCkVZ9g9HFB",
+    "order_id": "09a65126-7709-429a-9c50-55c7a7181e6a",
+    "event_date": "2025-07-24 12:19:55",
+    "ipfs_cid": "Qmf8wyLmcMSyX1oqBFa34GmUnf2yJcrNhTHvNUf6ycRWQA"
+  }
+}
