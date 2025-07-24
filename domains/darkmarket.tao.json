@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "darkmarket.tao",
+    "domain_name": "darkmarket",
+    "created_at": "2025-07-24 12:11:20",
+    "wallet_address": "5FexFXAv2MKtxmgz4Yhkqev41FvfFGJA2hNmdnCkVZ9g9HFB",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "darkmarket.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x79f14753e3c8e7b5c796f5e890bd3596242a58ed2e0fd8f86533dd4c630c4620",
+    "previous_cid": null,
+    "wallet_address": "5FexFXAv2MKtxmgz4Yhkqev41FvfFGJA2hNmdnCkVZ9g9HFB",
+    "order_id": "063f0525-0cae-4832-bc10-36f0ffc2af5f",
+    "event_date": "2025-07-24 12:11:20",
+    "ipfs_cid": "QmefNnDGRY6ac5qsU1xAM6rtcB1RsnMWhNj93cntXTU728"
+  }
+}
