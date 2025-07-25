@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "scale.tao",
+    "domain_name": "scale",
+    "created_at": "2025-07-25 11:37:06",
+    "wallet_address": "5FLmAhUq9UMp3DigTtZZaHqg95rPqrHxav64LiJFNMfBit3A",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "scale.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x4283c917fe447a8779cb5f267c1edf67985736a902cae9e01e60ad7c1906cb1f",
+    "previous_cid": null,
+    "wallet_address": "5FLmAhUq9UMp3DigTtZZaHqg95rPqrHxav64LiJFNMfBit3A",
+    "order_id": "4f718c29-fbea-47ca-8d20-37884c95a469",
+    "event_date": "2025-07-25 11:37:06",
+    "ipfs_cid": "Qme6R12h7GP7xXSoL7LAXNKM9JJW2uXExKHhcLHuZ6YBPo"
+  }
+}
