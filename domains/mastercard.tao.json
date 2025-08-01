@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "mastercard.tao",
+    "domain_name": "mastercard",
+    "created_at": "2025-08-01 23:35:34",
+    "wallet_address": "5CLkURB7EH2Py6DfL2MS3WWXi8DBMB1DAquBWrJDzprzQxxo",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "mastercard.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x9fce56a339f290ca82f00c0957c06f7a8b6aeb27e7fc45ee558876ff55e2fcd5",
+    "previous_cid": null,
+    "wallet_address": "5CLkURB7EH2Py6DfL2MS3WWXi8DBMB1DAquBWrJDzprzQxxo",
+    "order_id": "26631a06-3e83-456f-9f8a-66324bd34faf",
+    "event_date": "2025-08-01 23:35:34",
+    "ipfs_cid": "QmcR8mgSGNBcGUhTctwyng9VTaKBaxXB2aLjuGXrHwtNiz"
+  }
+}
