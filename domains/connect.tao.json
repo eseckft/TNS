@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "connect.tao",
+    "domain_name": "connect",
+    "created_at": "2025-08-09 01:47:03",
+    "wallet_address": "5Ggn2n3oMqfcMCQbAi3jWVjnZTZ5rHqBrMzDjezHLfuMnZYX",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "connect.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x4290758e55d3cb7a274b18b6c1e157cd4d04a5600ef7e488a7e1e8b33bdd0461",
+    "previous_cid": null,
+    "wallet_address": "5Ggn2n3oMqfcMCQbAi3jWVjnZTZ5rHqBrMzDjezHLfuMnZYX",
+    "order_id": "1041969f-1aea-41a6-96e9-45c2b7f547a6",
+    "event_date": "2025-08-09 01:47:03",
+    "ipfs_cid": "Qmeg7eada7HTfDvRiKXPZQ9tajL2aTZcrtmyZwkyBJDdYu"
+  }
+}
