@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "bittensorfoundation.tao",
+    "domain_name": "bittensorfoundation",
+    "created_at": "2025-08-09 01:40:41",
+    "wallet_address": "5Ggn2n3oMqfcMCQbAi3jWVjnZTZ5rHqBrMzDjezHLfuMnZYX",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "bittensorfoundation.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x7a6c8050ac7d04bffea4d0be087aeb93511c22d24f75da1021a7031b371acf60",
+    "previous_cid": null,
+    "wallet_address": "5Ggn2n3oMqfcMCQbAi3jWVjnZTZ5rHqBrMzDjezHLfuMnZYX",
+    "order_id": "634641b6-3bef-4c69-8111-b9f980bca70f",
+    "event_date": "2025-08-09 01:40:41",
+    "ipfs_cid": "QmesnpXxP4AwnwDPH89BHsGywEkVyqpQXyvZJNpYAmNpkB"
+  }
+}
