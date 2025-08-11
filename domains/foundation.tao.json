@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "foundation.tao",
+    "domain_name": "foundation",
+    "created_at": "2025-08-11 00:25:18",
+    "wallet_address": "5Ggn2n3oMqfcMCQbAi3jWVjnZTZ5rHqBrMzDjezHLfuMnZYX",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "foundation.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x39945bab06963cfa7a27342bf18b5f72fb9bcc18172898803c1872c2749bb889",
+    "previous_cid": null,
+    "wallet_address": "5Ggn2n3oMqfcMCQbAi3jWVjnZTZ5rHqBrMzDjezHLfuMnZYX",
+    "order_id": "1b655cf3-6ef4-487a-b459-216f0425992b",
+    "event_date": "2025-08-11 00:25:18",
+    "ipfs_cid": "QmXwb4adSXaLnzg1MtcFYPJrd4PDJx4NxrhtmLMQw4pue4"
+  }
+}
