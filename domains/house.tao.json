@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "house.tao",
+    "domain_name": "house",
+    "created_at": "2025-08-11 18:58:12",
+    "wallet_address": "5DJMjJ92xW49wjRNj3KQcbx6eupPtpYgs4er4h3gGjAurqED",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "house.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xc6486be15c2ffa6399b32046720c671b54662bc201452c503eab7086f5c0f66b",
+    "previous_cid": null,
+    "wallet_address": "5DJMjJ92xW49wjRNj3KQcbx6eupPtpYgs4er4h3gGjAurqED",
+    "order_id": "34b567d7-655b-4004-af59-15c4109effea",
+    "event_date": "2025-08-11 18:58:12",
+    "ipfs_cid": "QmRVdFkK4BxT3LAFTww6XuVoq4UofyZbYgu1jQgnpEkxzc"
+  }
+}
