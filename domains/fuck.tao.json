@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "fuck.tao",
+    "domain_name": "fuck",
+    "created_at": "2025-08-13 21:47:45",
+    "wallet_address": "5GuQ6YPvt3Kn9corcSWgWhfi2AaiG3KxL5BV4sSsB3AopA9D",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.5,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "fuck.tao",
+    "event_type": "buy_domain",
+    "price": 0.5,
+    "tx_hash": "0x7eabc66f8d4948ce5568c03582a8cccf6bc29c778411d24c120c2ff95cb2318c",
+    "previous_cid": null,
+    "wallet_address": "5GuQ6YPvt3Kn9corcSWgWhfi2AaiG3KxL5BV4sSsB3AopA9D",
+    "order_id": "dab62ba2-4cb4-4fad-a96e-74a24b021c1f",
+    "event_date": "2025-08-13 21:47:45",
+    "ipfs_cid": "QmRJnStKh9ukttoGUC2qDh1VzBiVVYLbQYsSMiCUKzTg8c"
+  }
+}
