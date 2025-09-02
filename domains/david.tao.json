@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "david.tao",
+    "domain_name": "david",
+    "created_at": "2025-09-02 08:56:55",
+    "wallet_address": "5ERg9jtQtAzKimemPWJeWBLZUb8zuuHK27u1urGHQGVvrYxy",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "david.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x7966870b49ebcf91b0549fb27beb92d58f6d1675ec20a441b6b674037d75cc7e",
+    "previous_cid": null,
+    "wallet_address": "5ERg9jtQtAzKimemPWJeWBLZUb8zuuHK27u1urGHQGVvrYxy",
+    "order_id": "f68f5cb4-5d37-4674-b11f-fdb4f03cf115",
+    "event_date": "2025-09-02 08:56:55",
+    "ipfs_cid": "QmPoMeE34MRCssWPtW5derv5oLwvMny2FdtL3viUH62L6i"
+  }
+}
