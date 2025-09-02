@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "jason.tao",
+    "domain_name": "jason",
+    "created_at": "2025-09-02 06:32:36",
+    "wallet_address": "5ERg9jtQtAzKimemPWJeWBLZUb8zuuHK27u1urGHQGVvrYxy",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "jason.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xa4fff77db70c4dc1d70c7de596eceff0647e2e74c63c707aeb949c43feb7acef",
+    "previous_cid": null,
+    "wallet_address": "5ERg9jtQtAzKimemPWJeWBLZUb8zuuHK27u1urGHQGVvrYxy",
+    "order_id": "9f104d88-aaa7-42d4-938b-d60ff03dacf9",
+    "event_date": "2025-09-02 06:32:36",
+    "ipfs_cid": "QmeQXc1QABdnUrYaU1cS4EfavmUBMrZmvGUnAZetYSGKhB"
+  }
+}
