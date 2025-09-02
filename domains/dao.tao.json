@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "dao.tao",
+    "domain_name": "dao",
+    "created_at": "2025-09-02 09:33:26",
+    "wallet_address": "5ERg9jtQtAzKimemPWJeWBLZUb8zuuHK27u1urGHQGVvrYxy",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 1,
+    "cost_in_tao": 1
+  },
+  "latest_event": {
+    "domain": "dao.tao",
+    "event_type": "buy_domain",
+    "price": 1,
+    "tx_hash": "0x325a100ff00acbceb1d6135d016a692bad825f7be3ec3c18b643075f0da1132e",
+    "previous_cid": null,
+    "wallet_address": "5ERg9jtQtAzKimemPWJeWBLZUb8zuuHK27u1urGHQGVvrYxy",
+    "order_id": "39f89641-9270-4a27-9f6f-74d285b368d6",
+    "event_date": "2025-09-02 09:33:26",
+    "ipfs_cid": "QmUq34DRfjtJDSraTq1KKVtqSjrDgmMX7knyzVYK9zr6e7"
+  }
+}
