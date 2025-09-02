@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "henry.tao",
+    "domain_name": "henry",
+    "created_at": "2025-09-02 06:27:00",
+    "wallet_address": "5ERg9jtQtAzKimemPWJeWBLZUb8zuuHK27u1urGHQGVvrYxy",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "henry.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xd90428d9db1a13f89f8fcbc974ef35aa91a89f046a5260b9c2397f96dea8bc47",
+    "previous_cid": null,
+    "wallet_address": "5ERg9jtQtAzKimemPWJeWBLZUb8zuuHK27u1urGHQGVvrYxy",
+    "order_id": "bb186a23-4488-4293-b647-788eff4ed6a6",
+    "event_date": "2025-09-02 06:27:00",
+    "ipfs_cid": "QmSPHf6gVNnM1tZ8nktEYwYCZWh82zwi528ZcDngriGzHQ"
+  }
+}
