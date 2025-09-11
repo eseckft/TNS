@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "machine.tao",
+    "domain_name": "machine",
+    "created_at": "2025-09-11 21:41:16",
+    "wallet_address": "5GYdhRAJMRYV6owtwWASiV34c7CgQsQDd3Qbg3Qk3VEupR7J",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "machine.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x54176f368b0b44c6b9363333a81d928590950d06e0e96eae85c31d9c56634d61",
+    "previous_cid": null,
+    "wallet_address": "5GYdhRAJMRYV6owtwWASiV34c7CgQsQDd3Qbg3Qk3VEupR7J",
+    "order_id": "1b537854-86cb-4483-8087-ddeaccaa8a81",
+    "event_date": "2025-09-11 21:41:16",
+    "ipfs_cid": "QmecgQUGQooWpkTuk1rjLDdumuKgWoMexaacj2ijyaeuxt"
+  }
+}
