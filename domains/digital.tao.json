@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "digital.tao",
+    "domain_name": "digital",
+    "created_at": "2025-09-11 21:01:06",
+    "wallet_address": "5GYdhRAJMRYV6owtwWASiV34c7CgQsQDd3Qbg3Qk3VEupR7J",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "digital.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x068b24c53b11dbc69f7a54933299c22bfc4224a16487cd8e669823e4fcd6adba",
+    "previous_cid": null,
+    "wallet_address": "5GYdhRAJMRYV6owtwWASiV34c7CgQsQDd3Qbg3Qk3VEupR7J",
+    "order_id": "43564577-917f-4ff1-8f8d-800ff11c2730",
+    "event_date": "2025-09-11 21:01:06",
+    "ipfs_cid": "QmXN1x7Xmwg9LsSCq4M9ma6kq3WFmv6rkRHftFpeVt4khj"
+  }
+}
