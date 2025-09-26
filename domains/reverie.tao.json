@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "reverie.tao",
+    "domain_name": "reverie",
+    "created_at": "2025-09-26 15:46:50",
+    "wallet_address": "5DkGHpSoUnEYtAov44XNrbmKwiLpH6nigdgfkb2UmoMMa9ev",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "reverie.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x817063d88c569719f4c3a5516d8c4112261f0e5ff56c052dea9801e09c19d380",
+    "previous_cid": null,
+    "wallet_address": "5DkGHpSoUnEYtAov44XNrbmKwiLpH6nigdgfkb2UmoMMa9ev",
+    "order_id": "fc8cae6c-b219-44ce-a9c3-f07b0f013412",
+    "event_date": "2025-09-26 15:46:50",
+    "ipfs_cid": "QmQVdxTqhyytE487KXfSo81eEbywgiDUgBNJa3H7JxpMfM"
+  }
+}
